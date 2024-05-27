@@ -1,51 +1,173 @@
-NAME,STORE_GENRE,METACRITIC_SCORE,N_SUPPORTED_LANGUAGES,DEVELOPERS,SUPPORTED_PLATFORMS,POSITIVE_REVIEWS,NEGATIVE_REVIEWS,TECHNOLOGIES,RELEASE_DATE,MONTHLY_TWITCH_PEAK_2023,PRICE,N_DLC,24_HOUR_PEAK
-Totally Accurate Battle Simulator,N/A,N/A,N/A,Landfall,Windows macOS,120172,2629,"Engine.Unity, SDK.EpicOnlineServices",1 April 2021 – 18:00:00 UTC (3 years ago),N/A,N/A,N/A,N/A
-VPet,N/A,N/A,N/A,LB Game,Windows,38561,646,,14 August 2023 – 02:00:10 UTC (10 months ago),N/A,N/A,N/A,N/A
-Half-Life: Alyx,N/A,,N/A,Valve,Windows Linux,87263,1459,Engine.Source2,23 March 2020 – 17:00:00 UTC (4 years ago),N/A,N/A,N/A,N/A
-HoloCure - Save the Fans!,N/A,N/A,N/A,KayAnimate,Windows,29436,214,"Engine.GameMaker, Detected Technologies (?), Engine.GameMaker, SDK.SDL",17 August 2023 – 03:59:17 UTC (9 months ago),N/A,N/A,N/A,N/A
-Resident Evil 4,N/A,,N/A,"CAPCOM Co., Ltd.",Windows,133672,3355,Engine.RE_Engine,24 March 2023 – 04:00:00 UTC (14 months ago),N/A,N/A,N/A,N/A
-Lethal Company,N/A,N/A,N/A,Zeekerss,Windows,386109,9985,Engine.Unity,23 October 2023 – 21:09:00 UTC (7 months ago),N/A,N/A,N/A,N/A
-Plants vs. Zombies: Game of the Year,N/A,,N/A,"PopCap Games, Inc.",macOS Windows,122656,3084,,5 May 2009 – 07:00:00 UTC (15 years ago),N/A,N/A,N/A,N/A
-People Playground,N/A,N/A,N/A,mestiez,Windows,241330,3293,Engine.Unity,23 July 2019 – 16:08:27 UTC (5 years ago),N/A,N/A,N/A,N/A
-Senren＊Banka,N/A,N/A,N/A,YUZUSOFT,Windows,21946,209,Engine.KiriKiri,14 February 2020 – 09:01:00 UTC (4 years ago),N/A,N/A,N/A,N/A
-Bloons TD 6,N/A,N/A,N/A,Ninja Kiwi,Windows macOS,300613,8158,Engine.Unity,18 December 2018 – 00:54:00 UTC (6 years ago),N/A,N/A,N/A,N/A
-Euro Truck Simulator 2,N/A,,N/A,SCS Software,Windows macOS Linux,743332,19741,Engine.Prism3D,18 October 2012 (12 years ago),N/A,N/A,N/A,N/A
-Hades,N/A,,N/A,Supergiant Games,Windows macOS,254433,4213,"Engine.Essence_Engine, Engine.XNA, SDK.EpicOnlineServices",17 September 2020 – 14:37:36 UTC (4 years ago),N/A,N/A,N/A,N/A
-A Hat in Time,N/A,,N/A,Gears for Breakfast,Windows macOS,48545,1033,Engine.Unreal,5 October 2017 – 21:00:00 UTC (7 years ago),N/A,N/A,N/A,N/A
-Celeste,N/A,,N/A,Maddy Makes Games Inc.,Windows macOS Linux,91170,2215,"Engine.FNA, Engine.MonoGame, Engine.XNA",25 January 2018 – 16:38:00 UTC (6 years ago),N/A,N/A,N/A,N/A
-Slime Rancher,N/A,,N/A,Monomi Park,Windows macOS Linux,117536,2499,Engine.Unity,1 August 2017 – 16:00:00 UTC (7 years ago),N/A,N/A,N/A,N/A
-N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,,N/A,N/A,N/A,N/A,N/A
-N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,,N/A,N/A,N/A,N/A,N/A
-N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,,N/A,N/A,N/A,N/A,N/A
-N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,,N/A,N/A,N/A,N/A,N/A
-N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,,N/A,N/A,N/A,N/A,N/A
-N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,,N/A,N/A,N/A,N/A,N/A
-N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,,N/A,N/A,N/A,N/A,N/A
-N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,,N/A,N/A,N/A,N/A,N/A
-N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,,N/A,N/A,N/A,N/A,N/A
-N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,,N/A,N/A,N/A,N/A,N/A
-N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,,N/A,N/A,N/A,N/A,N/A
-N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,,N/A,N/A,N/A,N/A,N/A
-N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,,N/A,N/A,N/A,N/A,N/A
-N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,,N/A,N/A,N/A,N/A,N/A
-N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,,N/A,N/A,N/A,N/A,N/A
-N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,,N/A,N/A,N/A,N/A,N/A
-N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,,N/A,N/A,N/A,N/A,N/A
-N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,,N/A,N/A,N/A,N/A,N/A
-N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,,N/A,N/A,N/A,N/A,N/A
-N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,,N/A,N/A,N/A,N/A,N/A
-N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,,N/A,N/A,N/A,N/A,N/A
-N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,,N/A,N/A,N/A,N/A,N/A
-N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,,N/A,N/A,N/A,N/A,N/A
-N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,,N/A,N/A,N/A,N/A,N/A
-N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,,N/A,N/A,N/A,N/A,N/A
-N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,,N/A,N/A,N/A,N/A,N/A
-N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,,N/A,N/A,N/A,N/A,N/A
-N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,,N/A,N/A,N/A,N/A,N/A
-N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,,N/A,N/A,N/A,N/A,N/A
-N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,,N/A,N/A,N/A,N/A,N/A
-N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,,N/A,N/A,N/A,N/A,N/A
-N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,,N/A,N/A,N/A,N/A,N/A
-N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,,N/A,N/A,N/A,N/A,N/A
-N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,,N/A,N/A,N/A,N/A,N/A
-N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,,N/A,N/A,N/A,N/A,N/A
+NAME,STORE_GENRE,RATING_SCORE,N_SUPPORTED_LANGUAGES,DEVELOPERS,SUPPORTED_PLATFORMS,POSITIVE_REVIEWS,NEGATIVE_REVIEWS,TECHNOLOGIES,RELEASE_DATE,TOTAL_TWITCH_PEAK,PRICE,N_DLC,24_HOUR_PEAK
+NUKITASHI,Store Genres Adventure (25),review_score 9,4 Languages,Qruppo,Windows,1357,46,,23 June 2023 – 16:51:13 UTC (11 months ago),"587
+all-time peak 11 months ago25 June 2023",N/A,N/A,"88
+24-hour peak"
+Don't Escape Trilogy,"Store Genres Adventure (25), Indie (23)",review_score 8,1 Languages,scriptwelder,Windows,382,1,Engine.Adobe_AIR,29 July 2019 – 16:04:44 UTC (5 years ago),"36
+all-time peak 6 months ago19 November 2023","4,99€",N/A,"3
+24-hour peak"
+Call of Duty 4: Modern Warfare (2007),Store Genres Action (1),review_score 8,5 Languages,Infinity Ward,Windows macOS,21879,1509,"AntiCheat.PunkBuster, Engine.IW_Engine",12 November 2007 – 18:00:00 UTC (17 years ago),"1,796
+all-time peak 14 years ago25 April 2010","19,99€",N/A,"535
+24-hour peak"
+Yog-Sothoth's Yard,"Store Genres Indie (23), RPG (3), Simulation (28)",review_score 8,2 Languages,Bone Nail,Windows,7044,412,Engine.Unity,20 October 2023 – 06:50:21 UTC (7 months ago),"5,459
+all-time peak 7 months ago21 October 2023","10,79€",1,"712
+24-hour peak"
+Sledders,"Store Genres Racing (9), Simulation (28), Sports (18), Early Access (70)",review_score 9,1 Languages,Hanki Games,Windows,1628,61,Engine.Unity,5 December 2023 – 12:00:06 UTC (6 months ago),6 months ago,,N/A,
+BlazBlue Entropy Effect,"Store Genres Action (1), Adventure (25), Indie (23)",review_score 8,3 Languages,91Act,Windows macOS,17804,1201,Engine.Unity,31 January 2024 – 01:56:00 UTC (4 months ago),"6,956
+all-time peak 2 months ago17 March 2024",N/A,1,"1,619
+24-hour peak"
+DYO,Store Genres Indie (23),review_score 9,29 Languages,Team DYO,Windows,1276,42,Engine.GameMaker,14 February 2018 – 07:00:00 UTC (6 years ago),"113
+all-time peak 2 years ago15 December 2022",N/A,1,"23
+24-hour peak"
+Assetto Corsa,N/A,N/A,,Kunos Simulazioni,Windows,115332,9135,,19 December 2014 – 08:48:00 UTC (10 years ago),5 months ago,"19,99€",13,
+Tales From Off-Peak City Vol. 1,"Store Genres Adventure (25), Indie (23)",review_score 9,1 Languages,Cosmo D,Windows macOS Linux,513,6,Engine.Unity,15 May 2020 – 15:59:02 UTC (4 years ago),4 years ago,,N/A,
+Days Gone,"Store Genres Action (1), Adventure (25)",review_score 8,23 Languages,Bend Studio,Windows,75820,5861,Engine.Unreal,18 May 2021 – 04:00:00 UTC (3 years ago),"27,450
+all-time peak 3 years ago23 May 2021","49,99€",N/A,"3,171
+24-hour peak"
+Wandersong,"Store Genres Adventure (25), Indie (23)",review_score 9,1 Languages,Wishes Ultd.,Windows macOS,3119,152,Engine.GameMaker,27 September 2018 – 16:59:00 UTC (6 years ago),"226
+all-time peak 5 years ago4 May 2019","19,99€",3,"8
+24-hour peak"
+Parkitect,"Store Genres Casual (4), Indie (23), Simulation (28), Strategy (2)",review_score 8,12 Languages,Texel Raptor,Windows macOS Linux,6659,390,Engine.Unity,29 November 2018 – 17:10:11 UTC (6 years ago),"1,400
+all-time peak 6 years ago30 December 2018","24,99€",2,"278
+24-hour peak"
+100 March Cats,"Store Genres Adventure (25), Casual (4), Indie (23), Free to Play (37)",review_score 9,103 Languages,100 Cozy Games,Windows,869,22,"Engine.Unity, Detected Technologies (?), Engine.Unity, SDK.UnityBurst",6 March 2024 – 17:00:00 UTC (3 months ago),"805
+all-time peak 3 months ago6 March 2024",N/A,2,"10
+24-hour peak"
+Necesse,N/A,N/A,,Fair Games ApS,Windows macOS Linux,11216,720,,12 December 2019 – 16:56:02 UTC (5 years ago),14 months ago,N/A,N/A,
+Ostriv,"Store Genres Indie (23), Simulation (28), Strategy (2), Early Access (70)",review_score 8,2 Languages,yevhen8,Windows,5221,292,,19 March 2020 – 11:37:35 UTC (4 years ago),"1,252
+all-time peak 14 months ago26 March 2023","20,99€",1,"390
+24-hour peak"
+Starbound,"Store Genres Action (1), Adventure (25), Casual (4), Indie (23), RPG (3)",review_score 8,1 Languages,Chucklefish,Windows macOS Linux,150930,12254,,22 July 2016 – 16:32:00 UTC (8 years ago),"88,709
+all-time peak 11 years ago7 December 2013","13,99€",N/A,"1,445
+24-hour peak"
+Cyber Manhunt,N/A,N/A,,Aluba Studio,Windows macOS,12765,839,Engine.Unity,3 February 2021 – 03:36:44 UTC (3 years ago),4 years ago,"8,99€",3,
+Roadwarden,N/A,N/A,,Moral Anxiety Studio,Windows macOS Linux,3124,154,"Engine.PyGame, Engine.RenPy",12 September 2022 – 12:58:08 UTC (2 years ago),15 months ago,"10,99€",N/A,
+Landlord of the Woods,N/A,N/A,,Madison Karrh,Windows macOS,734,16,Engine.Unity,17 March 2021 – 12:09:51 UTC (3 years ago),2 years ago,"0,99€",N/A,
+F.E.A.R.,N/A,N/A,,"Monolith Productions, Inc.",,13794,917,"AntiCheat.PunkBuster, Engine.LithTech",21 May 2010 – 21:36:00 UTC (14 years ago),11 years ago,"54,99€",N/A,
+Mass Effect (2007),N/A,N/A,,BioWare,,15238,1028,Engine.Unreal,19 December 2008 – 08:00:00 UTC (16 years ago),14 years ago,"29,99€",N/A,
+LIMBO,N/A,N/A,,Playdead,Windows macOS Linux,48398,3687,,2 August 2011 – 16:57:00 UTC (13 years ago),8 years ago,"9,99€",N/A,
+14 Minesweeper Variants,N/A,N/A,,Alith Games,Windows macOS,806,20,Engine.Godot,14 November 2022 – 14:59:43 UTC (2 years ago),17 months ago,"6,89€",N/A,
+Scrap Mechanic,N/A,N/A,,Axolot Games,Windows,98813,7939,,20 January 2016 – 07:58:00 UTC (9 years ago),4 years ago,"19,99€",N/A,
+Portal 2,"Store Genres Action (1), Adventure (25)",review_score 9,28 Languages,Valve,Windows macOS Linux,387947,5019,Engine.Source,19 April 2011 (13 years ago),"98,460
+all-time peak 13 years ago19 April 2011",$8.23 at -59%,7,"2,721
+24-hour peak"
+People Playground,"Store Genres Action (1), Casual (4), Indie (23), Simulation (28)",review_score 9,1 Languages,mestiez,Windows,241459,3298,Engine.Unity,23 July 2019 – 16:08:27 UTC (5 years ago),"17,015
+all-time peak 7 months ago21 October 2023",$9.99 ,nan,"8,278
+24-hour peak"
+Stardew Valley,"Store Genres Indie (23), RPG (3), Simulation (28)",review_score 9,12 Languages,ConcernedApe,Windows macOS Linux,697634,12240,"Engine.MonoGame, Engine.XNA",26 February 2016 – 17:59:00 UTC (8 years ago),"236,614
+all-time peak 2 months ago24 March 2024",$14.99 ,nan,"109,950
+24-hour peak"
+Vampire Survivors,"Store Genres Action (1), Casual (4), Indie (23), RPG (3)",review_score 9,12 Languages,poncle,Windows macOS,226900,3345,Engine.Unity,20 October 2022 – 16:01:28 UTC (2 years ago),"77,061
+all-time peak 2 years ago20 February 2022",$4.99 ,4,"6,269
+24-hour peak"
+Hades,"Store Genres Action (1), Indie (23), RPG (3)",review_score 9,11 Languages,Supergiant Games,Windows macOS,254607,4217,"Engine.Essence_Engine, Engine.XNA, SDK.EpicOnlineServices",17 September 2020 – 14:37:36 UTC (4 years ago),"54,240
+all-time peak 15 days ago12 May 2024",$24.99 ,nan,"20,105
+24-hour peak"
+Portal,Store Genres Action (1),review_score 9,28 Languages,Valve,macOS Windows Linux,154641,2370,Engine.Source,10 October 2007 – 07:01:00 UTC (17 years ago),"20,672
+all-time peak 14 years ago14 May 2010",nan,nan,"1,153
+24-hour peak"
+Terraria,"Store Genres Action (1), Adventure (25), Indie (23), RPG (3)",review_score 9,9 Languages,Re-Logic,Windows macOS Linux,1257272,30602,"Engine.FNA, Engine.XNA",16 May 2011 – 17:52:00 UTC (13 years ago),"489,886
+all-time peak 4 years ago16 May 2020",$9.99 ,nan,"32,655
+24-hour peak"
+RimWorld,"Store Genres Indie (23), Simulation (28), Strategy (2)",review_score 9,24 Languages,Ludeon Studios,Windows macOS Linux,183362,3663,Engine.Unity,17 October 2018 – 14:46:00 UTC (6 years ago),"62,257
+all-time peak last month14 April 2024",$34.99 ,7,"32,962
+24-hour peak"
+Left 4 Dead 2,Store Genres Action (1),review_score 9,28 Languages,Valve,Windows macOS Linux,834932,21172,Engine.Source,17 November 2009 (15 years ago),"162,399
+all-time peak 11 years ago26 December 2013",$9.99 ,3,"22,935
+24-hour peak"
+Pizza Tower,"Store Genres Action (1), Indie (23)",review_score 9,1 Languages,Tour De Pizza,Windows,57255,874,Engine.GameMaker,26 January 2023 – 18:00:19 UTC (16 months ago),"9,074
+all-time peak 3 months ago12 March 2024",$19.99 ,nan,"1,062
+24-hour peak"
+The Henry Stickmin Collection,"Store Genres Adventure (25), Casual (4), Indie (23)",review_score 9,1 Languages,PuffballsUnited,Windows macOS,43494,602,Engine.Adobe_AIR,7 August 2020 – 15:55:00 UTC (4 years ago),"2,812
+all-time peak 4 years ago9 August 2020",$14.99 ,nan,"156
+24-hour peak"
+Senren＊Banka,"Store Genres Adventure (25), Casual (4)",review_score 9,4 Languages,YUZUSOFT,Windows,21958,209,Engine.KiriKiri,14 February 2020 – 09:01:00 UTC (4 years ago),"3,013
+all-time peak 3 months ago21 February 2024",$34.99 ,nan,"763
+24-hour peak"
+Euro Truck Simulator 2,"Store Genres Indie (23), Simulation (28)",review_score 9,25 Languages,SCS Software,Windows macOS Linux,743641,19765,Engine.Prism3D,18 October 2012 (12 years ago),7 months ago,nan,94,nan
+Slay the Spire,"Store Genres Indie (23), Strategy (2)",review_score 9,19 Languages,Mega Crit,Windows macOS Linux,152966,3354,nan,23 January 2019 – 15:50:00 UTC (5 years ago),"33,086
+all-time peak 6 years ago18 February 2018",nan,nan,"20,717
+24-hour peak"
+Slime Rancher,"Store Genres Action (1), Adventure (25), Indie (23), Simulation (28)",review_score 9,10 Languages,Monomi Park,Windows macOS Linux,117559,2500,Engine.Unity,1 August 2017 – 16:00:00 UTC (7 years ago),"7,214
+all-time peak 2 years ago16 January 2022",$19.99 ,5,"1,065
+24-hour peak"
+ULTRAKILL,"Store Genres Action (1), Indie (23), Early Access (70)",review_score 9,1 Languages,"Arsi ""Hakita"" Patala",Windows,111321,2366,Engine.Unity,3 September 2020 – 16:52:00 UTC (4 years ago),"28,076
+all-time peak 5 months ago20 December 2023",$24.99 ,nan,"3,261
+24-hour peak"
+A Short Hike,"Store Genres Adventure (25), Indie (23)",review_score 9,5 Languages,adamgryu,Windows macOS Linux,16102,122,Engine.Unity,30 July 2019 – 12:16:09 UTC (5 years ago),"229
+all-time peak 3 years ago20 September 2021",$7.99 ,N/A,"44
+24-hour peak"
+Slay the Spire,"Store Genres Indie (23), Strategy (2)",review_score 9,19 Languages,Mega Crit,Windows macOS Linux,152966,3354,,23 January 2019 – 15:50:00 UTC (5 years ago),"33,086
+all-time peak 6 years ago18 February 2018",N/A,N/A,"20,717
+24-hour peak"
+Lethal Company,"Store Genres Action (1), Adventure (25), Indie (23), Early Access (70)",review_score 9,1 Languages,Zeekerss,Windows,386334,10001,Engine.Unity,23 October 2023 – 21:09:00 UTC (7 months ago),"240,817
+all-time peak 6 months ago3 December 2023",$9.99 ,N/A,"18,891
+24-hour peak"
+Slime Rancher,"Store Genres Action (1), Adventure (25), Indie (23), Simulation (28)",review_score 9,10 Languages,Monomi Park,Windows macOS Linux,117559,2500,Engine.Unity,1 August 2017 – 16:00:00 UTC (7 years ago),"7,214
+all-time peak 2 years ago16 January 2022",$19.99 ,5,"1,065
+24-hour peak"
+ULTRAKILL,"Store Genres Action (1), Indie (23), Early Access (70)",review_score 9,1 Languages,"Arsi ""Hakita"" Patala",Windows,111321,2366,Engine.Unity,3 September 2020 – 16:52:00 UTC (4 years ago),"28,076
+all-time peak 5 months ago20 December 2023",$24.99 ,N/A,"3,261
+24-hour peak"
+Totally Accurate Battle Simulator,"Store Genres Indie (23), Simulation (28), Strategy (2)",review_score 9,9 Languages,Landfall,Windows macOS,120213,2631,"Engine.Unity, SDK.EpicOnlineServices",1 April 2021 – 18:00:00 UTC (3 years ago),"13,674
+all-time peak 3 years ago2 April 2021",N/A,1,"2,397
+24-hour peak"
+The Binding of Isaac: Rebirth,Store Genres Action (1),review_score 9,1 Languages,"Nicalis, Inc.",Windows macOS Linux,280772,7104,,4 November 2014 – 18:36:00 UTC (10 years ago),"70,701
+all-time peak 3 years ago11 April 2021",$14.99 ,3,"19,552
+24-hour peak"
+Mount & Blade: Warband,"Store Genres Action (1), RPG (3)",review_score 9,11 Languages,TaleWorlds Entertainment,Windows macOS Linux,156727,3621,,31 March 2010 – 16:00:00 UTC (14 years ago),"33,054
+all-time peak 10 years ago12 July 2014",$19.99 ,2,"5,022
+24-hour peak"
+Cats Hidden in Jingle Jam,"Store Genres Casual (4), Indie (23), Free to Play (37)",review_score 9,17 Languages,Travellin Cats,Windows,8811,36,"Engine.ClickTeamFusion, Detected Technologies (?), Engine.ClickTeamFusion",1 December 2023 – 16:29:00 UTC (6 months ago),"757
+all-time peak 6 months ago1 December 2023",N/A,1,"16
+24-hour peak"
+Katana ZERO,"Store Genres Action (1), Indie (23)",review_score 9,10 Languages,Askiisoft,Windows macOS,63808,1262,Engine.GameMaker,18 April 2019 – 14:11:00 UTC (5 years ago),"1,575
+all-time peak 5 years ago21 April 2019",$14.99 ,N/A,"239
+24-hour peak"
+VPet,"Store Genres Casual (4), Indie (23), RPG (3), Simulation (28), Free to Play (37)",review_score 9,3 Languages,LB Game,Windows,38569,646,,14 August 2023 – 02:00:10 UTC (10 months ago),"85,551
+all-time peak 9 months ago20 August 2023",N/A,2,"12,789
+24-hour peak"
+Counter-Strike,Store Genres Action (1),review_score 9,8 Languages,Valve,Windows macOS Linux,231062,6030,Engine.GoldSource,1 November 2000 – 08:00:00 UTC (24 years ago),"319,586
+all-time peak 17 years ago21 December 2007",$9.99 ,N/A,"14,626
+24-hour peak"
+Resident Evil 4,"Store Genres Action (1), Adventure (25)",review_score 9,13 Languages,"CAPCOM Co., Ltd.",Windows,133746,3351,Engine.RE_Engine,24 March 2023 – 04:00:00 UTC (14 months ago),"168,191
+all-time peak 14 months ago25 March 2023",$39.99 ,27,"4,996
+24-hour peak"
+BeamNG.drive,"Store Genres Racing (9), Simulation (28), Early Access (70)",review_score 9,28 Languages,BeamNG,Windows,242699,6767,,29 May 2015 – 16:06:00 UTC (9 years ago),"26,844
+all-time peak last month21 April 2024",$24.99 ,N/A,"20,701
+24-hour peak"
+Hollow Knight,"Store Genres Action (1), Adventure (25), Indie (23)",review_score 9,10 Languages,Team Cherry,Windows macOS Linux,340346,10020,Engine.Unity,24 February 2017 – 18:00:00 UTC (7 years ago),"20,324
+all-time peak 2 years ago7 May 2022",$14.99 ,N/A,"6,606
+24-hour peak"
+Celeste,"Store Genres Action (1), Adventure (25), Indie (23)",review_score 9,9 Languages,Maddy Makes Games Inc.,Windows macOS Linux,91207,2213,"Engine.FNA, Engine.MonoGame, Engine.XNA",25 January 2018 – 16:38:00 UTC (6 years ago),"4,177
+all-time peak 14 months ago26 March 2023",$19.99 ,N/A,"1,686
+24-hour peak"
+Deep Rock Galactic,Store Genres Action (1),review_score 9,26 Languages,Ghost Ship Games,Windows,280980,8252,Engine.Unreal,13 May 2020 – 13:00:00 UTC (4 years ago),"46,687
+all-time peak 2 years ago6 November 2022",$29.99 ,11,"10,950
+24-hour peak"
+A Hat in Time,"Store Genres Adventure (25), Indie (23)",review_score 9,11 Languages,Gears for Breakfast,Windows macOS,48554,1033,Engine.Unreal,5 October 2017 – 21:00:00 UTC (7 years ago),"7,312
+all-time peak 5 years ago10 May 2019",$29.99 ,10,"244
+24-hour peak"
+Garry's Mod,"Store Genres Casual (4), Indie (23), Simulation (28)",review_score 9,25 Languages,Facepunch Studios,Windows macOS Linux,1034137,34910,Engine.Source,29 November 2006 – 08:00:00 UTC (18 years ago),"73,863
+all-time peak 10 years ago2 January 2015",$9.99 ,N/A,"33,512
+24-hour peak"
+Rhythm Doctor,"Store Genres Indie (23), Early Access (70)",review_score 9,9 Languages,7th Beat Games,Windows macOS Linux,19285,299,Engine.Unity,26 February 2021 – 14:07:26 UTC (3 years ago),"2,892
+all-time peak 3 years ago5 March 2021",$15.99 ,N/A,"110
+24-hour peak"
+Firework,Store Genres Indie (23),review_score 9,2 Languages,Shiying Studio,Windows,37720,787,Engine.RPGMaker,4 February 2021 – 06:56:00 UTC (3 years ago),"3,746
+all-time peak 3 years ago6 February 2021",$9.99 ,N/A,"71
+24-hour peak"
+tModLoader,"Store Genres Action (1), Adventure (25), Indie (23), RPG (3), Free to Play (37)",review_score 9,9 Languages,TML Team,Windows macOS Linux,242725,7360,"Engine.FNA, Engine.XNA, Detected Technologies (?), Engine.FNA, Engine.XNA, SDK.SDL, SDK.SteamworksNET, SDK.Vorbis, SDK.iCue",16 May 2020 – 16:59:23 UTC (4 years ago),"47,602
+all-time peak last month20 April 2024",N/A,N/A,"32,011
+24-hour peak"
+OMORI,"Store Genres Adventure (25), Indie (23), RPG (3)",review_score 9,4 Languages,"OMOCAT, LLC",Windows macOS,66821,1687,Engine.RPGMaker,25 December 2020 – 08:00:00 UTC (4 years ago),"3,166
+all-time peak 3 years ago13 February 2021",$19.99 ,N/A,"688
+24-hour peak"
+Grimm's Hollow,"Store Genres Adventure (25), Free to Play (37), Indie (23), RPG (3)",review_score 9,7 Languages,ghosthunter,Windows,12775,174,"Engine.RPGMaker, Detected Technologies (?), Engine.RPGMaker",30 October 2019 – 22:07:09 UTC (5 years ago),"221
+all-time peak 3 years ago29 July 2021",N/A,1,"21
+24-hour peak"
+Resident Evil 2,Store Genres Action (1),review_score 9,15 Languages,"CAPCOM Co., Ltd.",Windows,149972,4737,Engine.RE_Engine,25 January 2019 – 05:01:00 UTC (5 years ago),"74,227
+all-time peak 5 years ago26 January 2019",$39.99 ,12,"1,430
+24-hour peak"
+TOEM,"Store Genres Adventure (25), Casual (4), Indie (23)",review_score 9,12 Languages,Something We Made,Windows macOS Linux,5819,45,Engine.Unity,17 September 2021 – 13:00:40 UTC (3 years ago),"402
+all-time peak 2 years ago10 December 2022",$19.99 ,N/A,"29
+24-hour peak"
