@@ -1,21 +1,51 @@
 NAME,STORE_GENRE,METACRITIC_SCORE,N_SUPPORTED_LANGUAGES,DEVELOPERS,SUPPORTED_PLATFORMS,POSITIVE_REVIEWS,NEGATIVE_REVIEWS,TECHNOLOGIES,RELEASE_DATE,MONTHLY_TWITCH_PEAK_2023,PRICE,N_DLC,24_HOUR_PEAK
-Portal 2,N/A,,N/A,Valve,Windows macOS Linux,387845,5016,Engine.Source,19 April 2011 (13 years ago),N/A,N/A,N/A,N/A
-People Playground,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A
-Stardew Valley,N/A,,N/A,ConcernedApe,Windows macOS Linux,697183,12237,"Engine.MonoGame, Engine.XNA",26 February 2016 – 17:59:00 UTC (8 years ago),N/A,N/A,N/A,N/A
-Vampire Survivors,N/A,,N/A,poncle,Windows macOS,226843,3344,Engine.Unity,20 October 2022 – 16:01:28 UTC (2 years ago),N/A,N/A,N/A,N/A
-Hades,N/A,,N/A,Supergiant Games,Windows macOS,254433,4213,"Engine.Essence_Engine, Engine.XNA, SDK.EpicOnlineServices",17 September 2020 – 14:37:36 UTC (4 years ago),N/A,N/A,N/A,N/A
-Portal,N/A,,N/A,Valve,macOS Windows Linux,154536,2368,Engine.Source,10 October 2007 – 07:01:00 UTC (17 years ago),N/A,N/A,N/A,N/A
-HoloCure - Save the Fans!,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A
-Terraria,N/A,,N/A,Re-Logic,Windows macOS Linux,1256992,30595,"Engine.FNA, Engine.XNA",16 May 2011 – 17:52:00 UTC (13 years ago),N/A,N/A,N/A,N/A
-RimWorld,N/A,,N/A,Ludeon Studios,Windows macOS Linux,183291,3661,Engine.Unity,17 October 2018 – 14:46:00 UTC (6 years ago),N/A,N/A,N/A,N/A
+Totally Accurate Battle Simulator,N/A,N/A,N/A,Landfall,Windows macOS,120172,2629,"Engine.Unity, SDK.EpicOnlineServices",1 April 2021 – 18:00:00 UTC (3 years ago),N/A,N/A,N/A,N/A
+VPet,N/A,N/A,N/A,LB Game,Windows,38561,646,,14 August 2023 – 02:00:10 UTC (10 months ago),N/A,N/A,N/A,N/A
 Half-Life: Alyx,N/A,,N/A,Valve,Windows Linux,87263,1459,Engine.Source2,23 March 2020 – 17:00:00 UTC (4 years ago),N/A,N/A,N/A,N/A
-Left 4 Dead 2,N/A,,N/A,Valve,Windows macOS Linux,834779,21165,Engine.Source,17 November 2009 (15 years ago),N/A,N/A,N/A,N/A
-N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A
-N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A
-N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A
-N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A
-N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A
-N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A
-N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A
+HoloCure - Save the Fans!,N/A,N/A,N/A,KayAnimate,Windows,29436,214,"Engine.GameMaker, Detected Technologies (?), Engine.GameMaker, SDK.SDL",17 August 2023 – 03:59:17 UTC (9 months ago),N/A,N/A,N/A,N/A
+Resident Evil 4,N/A,,N/A,"CAPCOM Co., Ltd.",Windows,133672,3355,Engine.RE_Engine,24 March 2023 – 04:00:00 UTC (14 months ago),N/A,N/A,N/A,N/A
+Lethal Company,N/A,N/A,N/A,Zeekerss,Windows,386109,9985,Engine.Unity,23 October 2023 – 21:09:00 UTC (7 months ago),N/A,N/A,N/A,N/A
+Plants vs. Zombies: Game of the Year,N/A,,N/A,"PopCap Games, Inc.",macOS Windows,122656,3084,,5 May 2009 – 07:00:00 UTC (15 years ago),N/A,N/A,N/A,N/A
+People Playground,N/A,N/A,N/A,mestiez,Windows,241330,3293,Engine.Unity,23 July 2019 – 16:08:27 UTC (5 years ago),N/A,N/A,N/A,N/A
+Senren＊Banka,N/A,N/A,N/A,YUZUSOFT,Windows,21946,209,Engine.KiriKiri,14 February 2020 – 09:01:00 UTC (4 years ago),N/A,N/A,N/A,N/A
+Bloons TD 6,N/A,N/A,N/A,Ninja Kiwi,Windows macOS,300613,8158,Engine.Unity,18 December 2018 – 00:54:00 UTC (6 years ago),N/A,N/A,N/A,N/A
+Euro Truck Simulator 2,N/A,,N/A,SCS Software,Windows macOS Linux,743332,19741,Engine.Prism3D,18 October 2012 (12 years ago),N/A,N/A,N/A,N/A
+Hades,N/A,,N/A,Supergiant Games,Windows macOS,254433,4213,"Engine.Essence_Engine, Engine.XNA, SDK.EpicOnlineServices",17 September 2020 – 14:37:36 UTC (4 years ago),N/A,N/A,N/A,N/A
+A Hat in Time,N/A,,N/A,Gears for Breakfast,Windows macOS,48545,1033,Engine.Unreal,5 October 2017 – 21:00:00 UTC (7 years ago),N/A,N/A,N/A,N/A
+Celeste,N/A,,N/A,Maddy Makes Games Inc.,Windows macOS Linux,91170,2215,"Engine.FNA, Engine.MonoGame, Engine.XNA",25 January 2018 – 16:38:00 UTC (6 years ago),N/A,N/A,N/A,N/A
 Slime Rancher,N/A,,N/A,Monomi Park,Windows macOS Linux,117536,2499,Engine.Unity,1 August 2017 – 16:00:00 UTC (7 years ago),N/A,N/A,N/A,N/A
-N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A
+N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,,N/A,N/A,N/A,N/A,N/A
+N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,,N/A,N/A,N/A,N/A,N/A
+N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,,N/A,N/A,N/A,N/A,N/A
+N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,,N/A,N/A,N/A,N/A,N/A
+N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,,N/A,N/A,N/A,N/A,N/A
+N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,,N/A,N/A,N/A,N/A,N/A
+N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,,N/A,N/A,N/A,N/A,N/A
+N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,,N/A,N/A,N/A,N/A,N/A
+N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,,N/A,N/A,N/A,N/A,N/A
+N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,,N/A,N/A,N/A,N/A,N/A
+N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,,N/A,N/A,N/A,N/A,N/A
+N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,,N/A,N/A,N/A,N/A,N/A
+N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,,N/A,N/A,N/A,N/A,N/A
+N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,,N/A,N/A,N/A,N/A,N/A
+N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,,N/A,N/A,N/A,N/A,N/A
+N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,,N/A,N/A,N/A,N/A,N/A
+N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,,N/A,N/A,N/A,N/A,N/A
+N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,,N/A,N/A,N/A,N/A,N/A
+N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,,N/A,N/A,N/A,N/A,N/A
+N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,,N/A,N/A,N/A,N/A,N/A
+N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,,N/A,N/A,N/A,N/A,N/A
+N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,,N/A,N/A,N/A,N/A,N/A
+N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,,N/A,N/A,N/A,N/A,N/A
+N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,,N/A,N/A,N/A,N/A,N/A
+N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,,N/A,N/A,N/A,N/A,N/A
+N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,,N/A,N/A,N/A,N/A,N/A
+N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,,N/A,N/A,N/A,N/A,N/A
+N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,,N/A,N/A,N/A,N/A,N/A
+N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,,N/A,N/A,N/A,N/A,N/A
+N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,,N/A,N/A,N/A,N/A,N/A
+N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,,N/A,N/A,N/A,N/A,N/A
+N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,,N/A,N/A,N/A,N/A,N/A
+N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,,N/A,N/A,N/A,N/A,N/A
+N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,,N/A,N/A,N/A,N/A,N/A
+N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,,N/A,N/A,N/A,N/A,N/A
