@@ -97,7 +97,7 @@ the witcher: enhanced edition,"['Action', 'RPG']",8,10,CD PROJEKT RED,68995,8679
 no time to relax,"['Casual', 'Indie', 'Simulation', 'Strategy']",8,8,Porcelain Fortress,1439,114,['Engine.Unity'],,194.0,2019,1649.0,2021,0.9265936896329684,0,1,1
 mr. hopp's playhouse,"['Free to Play', 'Indie', 'Strategy']",8,11,Moonbit,1359,94,[' '],0.0,17.0,2019,88.0,2021,0.9353062629043358,0,1,0
 tratritle,"['Adventure', 'Indie', 'RPG', 'Simulation']",8,2,INAZUMA SOFT,621,43,['Engine.RPGMaker'],19.99,9.0,2022,456.0,2022,0.9352409638554217,0,1,0
-superdimension neptune vs sega hard girls,"['Action', 'RPG']",8,3,IDEA FACTORY,867,66,[' '],19.99,8.0,2017,597.0,2017,0.9292604501607717,0,0,0
+superdimension neptune vs sega hard girls,"['Action', 'RPG']",8,3,IDEA FACTORY,867,66,[' '],19.99,8.0,2017,597.0,2017,0.9292604501607717,0,1,0
 dysmantle,"['Action', 'Adventure', 'Indie', 'RPG', 'Simulation']",8,12,10tons Ltd,8844,839,[' '],,483.0,2021,3614.0,2021,0.9133532995972322,0,1,1
 dragon ball xenoverse,['Action'],8,9,DIMPS,17566,2030,[' '],,106.0,2015,22850.0,2015,0.896407430087773,0,1,0
 barrage musical ～a fantasy of tempest～,"['Action', 'Indie']",8,4,SlimeSmile,327,12,[' '],,1.0,2017,98.0,2017,0.9646017699115044,0,1,0
@@ -131,7 +131,7 @@ paradise,"['Adventure', 'Casual']",8,3,Pil/Slash,155,2,"['Engine.PyGame', 'Engin
 東方獣王園 〜 unfinished dream of all living ghost.,"['Action', 'Indie']",8,1,上海アリス幻樂団,1033,75,[' '],,20.0,2023,3129.0,2023,0.9323104693140795,0,1,0
 sanitarium,['Adventure'],8,3,Piko Interactive LLC,1027,66,[' '],9.99,7.0,2014,112.0,2014,0.939615736505032,0,1,0
 mamiya,"['Action', 'Adventure', 'Casual']",8,2,Kenkou Land,195,6,[' '],,11.0,2021,48.0,2023,0.9701492537313433,0,1,1
-thief gold,"['Action', 'Simulation']",8,1,Looking Glass Studios,3291,278,[' '],,59.0,2012,260.0,2012,0.922107032782292,0,0,0
+thief gold,"['Action', 'Simulation']",8,1,Looking Glass Studios,3291,278,[' '],,59.0,2012,260.0,2012,0.922107032782292,0,1,0
 turbo kid,"['Action', 'Adventure', 'Indie']",8,6,Outerminds Inc.,279,9,['Engine.Unity'],19.99,17.0,2024,158.0,2024,0.96875,0,1,0
 洞石火,['Indie'],8,1,伤官制作组,301,11,"['Engine.PyGame', 'Engine.RenPy']",,22.0,2024,103.0,2024,0.9647435897435898,1,1,1
 圣歌德嘉的晚钟,"['Adventure', 'Free to Play', 'Indie', 'RPG', 'Simulation', 'Strategy']",8,2,二律背反,1142,76,"['Engine.PyGame', 'Engine.RenPy', 'Engine.PyGame', 'Engine.RenPy']",,12.0,2021,260.0,2021,0.9376026272577996,0,1,1
@@ -170,7 +170,7 @@ the ramp,"['Casual', 'Indie', 'Simulation', 'Sports']",8,7,Paul Schnepf,1309,95,
 fight knight,"['Action', 'Adventure', 'Indie', 'RPG']",8,1,Team Sorcerobe,1115,78,['Engine.GameMaker'],3.59,9.0,2021,300.0,2021,0.9346186085498742,0,1,0
 pocket mirror ~ goldenertraum,"['Adventure', 'Casual', 'Indie', 'RPG']",8,11,AstralShift,901,63,['Engine.RPGMaker'],19.99,15.0,2023,281.0,2023,0.9346473029045643,0,1,1
 himno,"['Adventure', 'Casual', 'Indie', 'Free to Play']",8,11,David Moralejo Sánchez,5162,489,"['Engine.Unity', 'Engine.Unity']",0.0,8.0,2019,320.0,2019,0.9134666430720226,1,1,1
-assassin's creed odyssey,"['Action', 'Adventure', 'RPG']",8,15,Ubisoft Quebec,137413,16653,"['Engine.UbisoftAnvil', 'Launcher.Ubisoft']",,12762.0,2018,62069.0,2018,0.891909960666208,0,0,0
+assassin's creed odyssey,"['Action', 'Adventure', 'RPG']",8,15,Ubisoft Quebec,137413,16653,"['Engine.UbisoftAnvil', 'Launcher.Ubisoft']",,12762.0,2018,62069.0,2018,0.891909960666208,0,1,0
 engare,"['Casual', 'Indie']",8,1,Mahdi Bahrami,408,23,[' '],9.99,4.0,2017,48.0,2017,0.9466357308584686,0,1,1
 apico,"['Casual', 'Simulation']",8,8,ellraiser,1229,100,['Engine.GameMaker'],19.99,146.0,2022,645.0,2022,0.9247554552294959,1,1,1
 spooky bonus,['Casual'],8,1,Grey Alien Games,299,10,[' '],2.49,6.0,2015,22.0,2015,0.9676375404530745,0,1,1
@@ -189,7 +189,7 @@ cute cats,['Casual'],8,103,KuKo,429,26,['Engine.Godot'],0.99,284.0,2021,2712.0,2
 my child lebensborn remastered,"['Indie', 'Simulation']",8,19,Sarepta Studio AS,355,15,['Engine.Unity'],,25.0,2023,70.0,2023,0.9594594594594594,0,1,0
 gladio and glory,"['Action', 'Free to Play', 'Indie', 'Simulation', 'Strategy', 'Early Access']",8,1,Adi Zhavo,3369,338,"['Engine.Unity', 'Engine.Unity']",0.0,30.0,2021,272.0,2021,0.9088211491772322,0,1,1
 nothing together,"['Action', 'Adventure', 'Casual', 'Racing', 'Simulation', 'Free to Play']",8,13,VacuumDev,807,53,"['Engine.GameMaker', 'Engine.GameMaker']",0.0,48.0,2024,491.0,2024,0.9383720930232559,0,1,0
-tom clancy's ghost recon,['Action'],8,1,Red Storm Entertainment,1248,94,[' '],,22.0,2008,81.0,2015,0.9299552906110283,0,0,0
+tom clancy's ghost recon,['Action'],8,1,Red Storm Entertainment,1248,94,[' '],,22.0,2008,81.0,2015,0.9299552906110283,0,1,0
 the one who pulls out the sword will be crowned king,"['Adventure', 'Casual', 'Free to Play', 'Indie']",8,2,Majorariatto,7583,753,"['Engine.Unity', 'Engine.Unity', 'SDK.SteamworksNET', 'SDK.cURL']",0.0,8.0,2022,2247.0,2022,0.909668905950096,1,1,1
 rhythm sprout,"['Action', 'Adventure', 'Indie']",8,13,SURT,539,31,['Engine.Unity'],,16.0,2023,204.0,2023,0.9456140350877194,0,1,0
 mindhack,"['Adventure', 'Indie', 'Early Access']",8,5,VODKAdemo?,379,16,['Engine.Unity'],12.99,10.0,2023,218.0,2023,0.959493670886076,0,1,1
@@ -238,7 +238,7 @@ demon's tilt,"['Action', 'Indie']",8,10,WIZNWAR,784,45,"['Engine.Unity', 'SDK.Ep
 purrfectly hidden cats - kittenrock,"['Casual', 'Free to Play']",8,1,Gemcraft Games,209,5,"['Engine.Unity', 'Engine.Unity', 'SDK.SteamworksNET', 'SDK.UnityBurst', 'SDK.UnityURP', 'SDK.cURL']",0.0,3.0,2024,30.0,2024,0.9766355140186916,0,1,0
 five nights at freddy's: sister location,"['Action', 'Indie', 'Simulation']",8,1,Scott Cawthon,10114,1035,[' '],7.99,33.0,2016,3549.0,2016,0.9071665620234999,0,1,0
 yakuza 4 remastered,"['Action', 'Adventure']",8,4,Ryu Ga Gotoku Studio,4590,426,[' '],19.99,229.0,2021,913.0,2021,0.9150717703349283,0,1,0
-detective girl of the steam city,"['Indie', 'RPG']",8,2,Clymenia,1598,143,['Engine.RPGMaker'],14.99,16.0,2019,591.0,2019,0.9178632969557725,0,0,0
+detective girl of the steam city,"['Indie', 'RPG']",8,2,Clymenia,1598,143,['Engine.RPGMaker'],14.99,16.0,2019,591.0,2019,0.9178632969557725,0,1,0
 orc massage,"['Action', 'Casual', 'RPG', 'Simulation', 'Sports', 'Strategy', 'Early Access']",8,6,TorchEntertainment,6328,682,['Engine.Unity'],14.99,54.0,2022,1723.0,2022,0.9027104136947218,0,1,0
 rise of the triad: ludicrous edition,['Action'],9,5,Nightdive Studios,499,25,"['Engine.GZDoom', 'Engine.Kex', 'Engine.idTech']",9.99,16.0,2023,265.0,2023,0.9522900763358778,0,1,0
 gem defender: soyjak survivors,"['Action', 'Casual', 'Indie', 'Strategy']",8,1,Coby Dox,278,12,['Engine.Unity'],3.99,4.0,2023,25.0,2023,0.9586206896551724,1,1,1
@@ -251,7 +251,7 @@ the wandering village,"['Simulation', 'Strategy', 'Early Access']",8,14,Stray Fa
 ctrl alt ego,"['Action', 'Indie', 'RPG']",9,8,MindThunk,545,27,['Engine.Unity'],11.99,7.0,2022,37.0,2022,0.9527972027972028,0,1,0
 esail sailing simulator,"['Racing', 'Simulation', 'Sports']",8,9,eSail Ltd.,581,37,['Engine.Unity'],37.99,30.0,2019,51.0,2021,0.9401294498381877,0,1,1
 gnomes & goblins (preview),"['Adventure', 'Casual', 'Indie']",8,1,"Wevr, Inc.",486,30,"['Engine.Unreal', 'Engine.Unreal', 'SDK.NVIDIA_APEX', 'SDK.NVIDIA_PhysX', 'SDK.Ogg', 'SDK.OpenSSL', 'SDK.OpenVR', 'SDK.UltraLeap', 'SDK.Vorbis']",0.0,1.0,2016,18.0,2019,0.9418604651162791,0,1,0
-hidden lands,"['Casual', 'Free to Play', 'Indie']",8,1,Avix Games,360,18,"['Engine.Unity', 'Engine.Unity']",,11.0,2021,51.0,2021,0.9523809523809523,0,0,0
+hidden lands,"['Casual', 'Free to Play', 'Indie']",8,1,Avix Games,360,18,"['Engine.Unity', 'Engine.Unity']",,11.0,2021,51.0,2021,0.9523809523809523,0,1,0
 symbiotic love,"['Adventure', 'Casual', 'Indie', 'Simulation']",8,1,白露社,1414,112,[' '],,11.0,2019,95.0,2019,0.926605504587156,0,1,1
 bit.trip presents... runner2: future legend of rhythm alien,"['Action', 'Casual', 'Indie']",8,1,Gaijin Games,2784,244,[' '],7.49,6.0,2013,795.0,2013,0.9194187582562747,1,1,1
 geneforge 2 - infestation,"['Adventure', 'Indie', 'RPG', 'Strategy']",8,1,Spiderweb Software,112,0,[' '],19.99,41.0,2024,215.0,2024,1.0,0,1,1
@@ -331,7 +331,7 @@ cats and seek : at dino park,"['Casual', 'Indie']",8,17,Noobzilla,95,0,[' '],,7.
 ball-it hell,"['Action', 'Casual', 'Indie']",8,12,Jamesika,147,3,['Engine.Unity'],,9.0,2024,34.0,2024,0.98,0,1,0
 bunny garden,"['Adventure', 'Casual', 'Indie']",8,4,qureate,699,41,['Engine.Unity'],24.99,392.0,2024,3454.0,2024,0.9445945945945946,0,1,0
 lucah: born of a dream,"['Action', 'Indie', 'RPG']",8,3,melessthanthree,417,20,['Engine.Unity'],9.99,3.0,2018,23.0,2018,0.954233409610984,1,1,1
-aka manto | 赤マント,"['Action', 'Adventure', 'Casual', 'Indie', 'Simulation', 'Strategy']",8,3,Chilla's Art,812,101,['Engine.Unity'],,8.0,2019,19.0,2021,0.8893756845564075,0,0,0
+aka manto | 赤マント,"['Action', 'Adventure', 'Casual', 'Indie', 'Simulation', 'Strategy']",8,3,Chilla's Art,812,101,['Engine.Unity'],,8.0,2019,19.0,2021,0.8893756845564075,0,1,0
 owinka shooter 2,"['Action', 'Adventure', 'Indie']",7,1,Owinka,36,0,['Engine.Unity'],,1.0,2024,14.0,2024,1.0,0,1,0
 江湖幸存者,"['Action', 'Adventure', 'Casual', 'Indie', 'RPG', 'Strategy']",8,5,Surprising Studio,989,137,['Engine.Unity'],,19.0,2023,1525.0,2023,0.8783303730017762,0,1,0
 of mice and moggies,['Indie'],7,4,Bippinbits,34,0,['Engine.Godot'],,2.0,2021,4.0,2022,1.0,1,1,1
@@ -367,7 +367,7 @@ tom clancy's rainbow six siege,['Action'],8,16,Ubisoft Montreal,1096645,190953,"
 change: a homeless survival experience,"['Adventure', 'Casual', 'Indie', 'RPG', 'Simulation', 'Strategy']",8,6,Delve Interactive,2113,194,['Engine.Unity'],18.99,43.0,2020,320.0,2020,0.9159081057650629,1,1,1
 the lancaster leak - entity exam,"['Action', 'Indie', 'Free to Play']",8,1,Jeremy Fischer,281,25,"['Engine.Unity', 'Engine.Unity', 'SDK.UnityBurst', 'SDK.UnityURP', 'SDK.cURL']",,9.0,2024,38.0,2024,0.9183006535947712,0,1,1
 atelier ryza 3: alchemist of the end & the secret key,"['Adventure', 'Casual', 'RPG', 'Simulation']",8,5,"KOEI TECMO GAMES CO., LTD.",1539,136,[' '],59.99,127.0,2023,7162.0,2023,0.9188059701492537,0,1,0
-moonbase alpha,"['Adventure', 'Simulation', 'Strategy']",8,1,Virtual Heroes,11552,1220,"['Engine.Unreal', 'Engine.Unreal', 'SDK.Bink_Video', 'SDK.NVIDIA_PhysX', 'SDK.NVIDIA_Texture_Tools', 'SDK.Ogg', 'SDK.Vorbis']",0.0,7.0,2010,1443.0,2010,0.9044785468211713,0,0,0
+moonbase alpha,"['Adventure', 'Simulation', 'Strategy']",8,1,Virtual Heroes,11552,1220,"['Engine.Unreal', 'Engine.Unreal', 'SDK.Bink_Video', 'SDK.NVIDIA_PhysX', 'SDK.NVIDIA_Texture_Tools', 'SDK.Ogg', 'SDK.Vorbis']",0.0,7.0,2010,1443.0,2010,0.9044785468211713,0,1,0
 they are coming,"['Action', 'Indie', 'Early Access']",8,12,OnHit Developments,224,18,['Engine.Unity'],,16.0,2023,195.0,2023,0.9256198347107438,0,1,0
 stillwater,"['Adventure', 'Casual', 'Indie']",8,1,Studio Clump,125,7,"['Engine.PyGame', 'Engine.RenPy', 'Engine.PyGame', 'Engine.RenPy']",,2.0,2022,5.0,2022,0.946969696969697,1,1,1
 down in bermuda,"['Adventure', 'Casual', 'Indie']",8,14,Yak & Co,996,124,['Engine.Unity'],,7.0,2021,188.0,2022,0.8892857142857142,0,1,1
@@ -382,7 +382,7 @@ amazing grace -what color is your attribute?-,['Adventure'],8,4,Cabbage Soft,57,
 swordcar,"['Action', 'Indie', 'Racing', 'Early Access']",8,1,SpaceMicroscope Studios,62,1,['Engine.Unity'],,2.0,2023,10.0,2024,0.9841269841269841,0,1,1
 marble world,"['Casual', 'Indie', 'Racing', 'Simulation']",8,1,Vector Interactive,833,94,['Engine.Unity'],,51.0,2022,124.0,2021,0.8985976267529665,0,1,0
 电竞教父,"['Casual', 'Indie', 'RPG', 'Simulation', 'Sports', 'Strategy']",8,2,Asteroid Game Studio,704,74,['Engine.Unity'],,4842.0,2024,5183.0,2024,0.9048843187660668,0,1,0
-oddworld: stranger's wrath hd,"['Action', 'Adventure', 'Strategy']",8,5,Oddworld Inhabitants,1322,196,[' '],,15.0,2010,158.0,2012,0.8708827404479579,0,0,0
+oddworld: stranger's wrath hd,"['Action', 'Adventure', 'Strategy']",8,5,Oddworld Inhabitants,1322,196,[' '],,15.0,2010,158.0,2012,0.8708827404479579,0,1,0
 touhou: fading illusion,"['Adventure', 'Casual', 'Indie', 'Free to Play', 'Early Access']",8,8,Indie Game Order,161,10,"['Engine.PyGame', 'Engine.RenPy', 'Engine.PyGame', 'Engine.RenPy']",,3.0,2022,14.0,2022,0.9415204678362573,1,1,1
 axiom of maria,"['Action', 'Adventure', 'Indie']",8,5,Studio Ganzheit,54,1,['Engine.Unreal'],,1.0,2024,4.0,2022,0.9818181818181818,0,1,0
 eternal hour: golden hour,"['Adventure', 'Casual', 'Free to Play', 'Indie']",8,1,Seventh Heart Studios,759,87,"['Engine.PyGame', 'Engine.RenPy', 'Engine.PyGame', 'Engine.RenPy', 'SDK.Python', 'SDK.SDL']",,1.0,2017,42.0,2018,0.8971631205673759,1,1,1
@@ -448,7 +448,7 @@ quell zen,['Indie'],8,6,Fallen Tree Games Ltd,60,1,[' '],,2.0,2016,393.0,2023,0.
 run zeus run,"['Adventure', 'Casual', 'Free to Play', 'Indie']",8,1,GamerzDan,1432,185,['Engine.Unity'],,4.0,2017,114.0,2021,0.8855905998763142,1,1,1
 borderlands goty enhanced,"['Action', 'RPG']",8,6,Gearbox Software,17212,2754,['Engine.Unreal'],,667.0,2019,26446.0,2019,0.8620655113693279,0,1,0
 quake live,['Action'],8,1,id Software,13011,2063,['Engine.idTech'],,495.0,2014,6154.0,2014,0.863141833620804,0,1,0
-doom 3: bfg edition,['Action'],8,6,id Software,8876,1376,[' '],,123.0,2012,1091.0,2014,0.8657822863831448,0,0,0
+doom 3: bfg edition,['Action'],8,6,id Software,8876,1376,[' '],,123.0,2012,1091.0,2014,0.8657822863831448,0,1,0
 i love you freddy,"['Action', 'Casual']",8,1,Madwriter games,59,1,['Engine.Unity'],,1.0,2023,20.0,2024,0.9833333333333333,0,1,0
 gacha fever,"['Action', 'Casual', 'Indie', 'RPG', 'Early Access']",7,4,Milkshake Games,46,0,['Engine.Unity'],,5.0,2024,22.0,2024,1.0,0,1,0
 sister's curriculum,['Simulation'],8,1,WAZAZAK,82,3,['Engine.Unity'],,9.0,2024,52.0,2024,0.9647058823529412,0,1,0
@@ -598,7 +598,7 @@ software inc.,"['Indie', 'Simulation', 'Strategy', 'Early Access']",8,1,Coredump
 do not feed the monkeys,"['Indie', 'Simulation', 'Strategy']",8,6,Fictiorama Studios,9218,604,['Engine.Unity'],15.99,112.0,2018,1888.0,2018,0.9385053960496844,1,1,1
 bear's restaurant,"['Adventure', 'Indie', 'RPG']",9,15,Odencat,510,20,[' '],12.99,6.0,2021,24.0,2021,0.9622641509433962,1,1,1
 the great rebellion,"['Action', 'Indie']",8,2,Kvltgames,348,3,['Engine.Unity'],19.99,19.0,2024,85.0,2024,0.9914529914529915,1,1,1
-oddworld: abe's exoddus,['Adventure'],8,5,Oddworld Inhabitants,1425,78,[' '],,15.0,2008,60.0,2017,0.9481037924151696,0,0,0
+oddworld: abe's exoddus,['Adventure'],8,5,Oddworld Inhabitants,1425,78,[' '],,15.0,2008,60.0,2017,0.9481037924151696,0,1,0
 the messenger,"['Action', 'Indie']",8,10,Sabotage,9704,658,['Engine.Unity'],19.99,121.0,2018,679.0,2019,0.9364987454159429,0,1,0
 death stranding director's cut,"['Action', 'Adventure']",8,20,KOJIMA PRODUCTIONS,24695,1931,[' '],0.0,1086.0,2022,6093.0,2023,0.9274769022759709,0,1,0
 octodad: dadliest catch,"['Action', 'Adventure', 'Indie']",8,12,Young Horses,8964,603,['Engine.Irrlicht'],14.99,32.0,2014,1815.0,2019,0.9369708372530574,1,1,1
@@ -649,7 +649,7 @@ age of empires® iii (2007),"['Simulation', 'Strategy']",8,5,Ensemble Studios,28
 fallen hero: retribution,"['Action', 'Adventure', 'Casual', 'Indie', 'RPG']",8,1,Hosted Games,330,5,['Container.Electron'],11.99,13.0,2023,379.0,2023,0.9850746268656716,1,1,1
 huntdown,"['Action', 'Indie']",8,7,Easy Trigger Games,3070,168,['Engine.Unity'],19.99,38.0,2021,337.0,2022,0.9481161210623842,1,1,1
 captain of industry,"['Indie', 'Simulation', 'Strategy', 'Early Access']",8,20,MaFi Games,5166,320,['Engine.Unity'],,2366.0,2022,6135.0,2022,0.94166970470288,0,1,0
-scribblenauts unlimited,"['Adventure', 'Casual', 'Strategy']",8,7,5th Cell Media,10468,703,[' '],19.99,54.0,2012,5180.0,2013,0.9370691970280189,0,0,0
+scribblenauts unlimited,"['Adventure', 'Casual', 'Strategy']",8,7,5th Cell Media,10468,703,[' '],19.99,54.0,2012,5180.0,2013,0.9370691970280189,0,1,0
 yakuza 6: the song of life,"['Action', 'Adventure']",8,3,Ryu Ga Gotoku Studio,5466,393,[' '],19.99,199.0,2021,1635.0,2021,0.9329237071172555,0,1,0
 bombe,['Casual'],8,14,Charlie Brej,254,5,[' '],9.99,25.0,2023,80.0,2023,0.9806949806949807,1,1,1
 tag: the power of paint,"['Action', 'Free to Play']",9,1,Tag Team,741,36,['SDK.FMOD'],0.0,6.0,2022,77.0,2022,0.9536679536679536,0,1,0
@@ -729,7 +729,7 @@ red trigger,"['Action', 'Adventure', 'Indie']",8,2,Bold Spirit Game Studio,1822,
 cat's kiss,"['Casual', 'Indie']",8,3,Narrator,1426,161,['Engine.Unity'],,10.0,2022,175.0,2021,0.8985507246376812,0,1,0
 her trees : the puzzle house,"['Adventure', 'Indie']",8,103,Stone,118,4,['Engine.Unity'],,17.0,2024,24.0,2024,0.9672131147540983,0,1,0
 medieval dynasty,"['Action', 'Adventure', 'Indie', 'RPG', 'Simulation']",8,19,Render Cube,35274,3559,"['Engine.Unreal', 'SDK.EpicOnlineServices']",,3879.0,2021,31057.0,2023,0.9083511446450184,0,1,0
-farm frenzy 2,['Casual'],8,1,Alawar,141,6,[' '],,23.0,2010,31.0,2024,0.9591836734693877,0,0,0
+farm frenzy 2,['Casual'],8,1,Alawar,141,6,[' '],,23.0,2010,31.0,2024,0.9591836734693877,0,1,0
 mxgp 2019 - the official motocross videogame,"['Racing', 'Simulation', 'Sports']",8,6,Milestone S.r.l.,1025,104,['Engine.Unreal'],,23.0,2019,307.0,2019,0.9078830823737821,0,1,0
 群侠传，启动！,"['Free to Play', 'Indie', 'RPG']",9,1,Xia Start,753,37,"['Engine.Unity', 'Engine.Unity', 'SDK.Protocol_Buffers', 'SDK.cURL']",0.0,118.0,2022,548.0,2022,0.9531645569620253,0,1,0
 stunt paradise,"['Indie', 'Racing', 'Sports']",8,21,Brinemedia,63,0,['Engine.Unity'],7.99,2.0,2024,16.0,2024,1.0,0,1,1
@@ -745,7 +745,7 @@ rising front,"['Action', 'Casual', 'Simulation', 'Strategy', 'Early Access']",8,
 tower tactics: liberation,"['Indie', 'Strategy']",8,10,asraworks,938,111,['Engine.Godot'],,43.0,2023,808.0,2023,0.894184938036225,0,1,0
 bum simulator,"['Action', 'Adventure', 'Indie', 'Simulation']",8,12,Ragged Games,2902,401,['Engine.Unreal'],,343.0,2023,1139.0,2023,0.8785952164698758,0,1,0
 100 hidden cats,"['Adventure', 'Casual', 'Indie']",8,1,Anatoliy Loginovskikh,1991,111,[' '],0.99,5.0,2021,6021.0,2023,0.9471931493815414,0,1,0
-mafia,"['Action', 'Adventure']",8,8,Illusion Softworks,12205,1783,[' '],,131.0,2002,9112.0,2022,0.8725336002287675,0,0,0
+mafia,"['Action', 'Adventure']",8,8,Illusion Softworks,12205,1783,[' '],,131.0,2002,9112.0,2022,0.8725336002287675,0,1,0
 pizza possum,"['Action', 'Casual', 'Indie']",9,11,Cosy Computer,1115,54,['Engine.Unity'],6.99,103.0,2023,268.0,2023,0.9538066723695466,0,1,0
 maniac,"['Action', 'Indie', 'Racing', 'RPG', 'Simulation']",8,17,Transhuman Design,779,72,['Engine.Unity'],4.99,39.0,2024,724.0,2024,0.9153936545240893,1,1,1
 绝世好武功 the matchless kungfu,"['Indie', 'RPG', 'Strategy', 'Early Access']",8,3,HuanMos Game,4571,654,['Engine.Unreal'],,350.0,2023,9131.0,2023,0.8748325358851675,0,1,0
@@ -801,7 +801,7 @@ she will punish them,"['Action', 'Indie', 'RPG', 'Early Access']",8,4,L2 Games,1
 time wasters,"['Action', 'Casual', 'Indie', 'RPG']",8,13,Proton Studio,2027,222,['Engine.Unity'],4.99,46.0,2023,1026.0,2023,0.9012894619831036,0,1,0
 fpv kamikaze drone,"['Action', 'Simulation', 'Early Access']",8,2,HFM Games,3374,408,['Engine.Unreal'],,122.0,2023,312.0,2024,0.8921205711263882,0,1,0
 full metal furies,"['Action', 'Adventure', 'Indie', 'RPG']",8,8,Cellar Door Games,2457,248,"['Engine.FNA', 'Engine.XNA']",19.99,15.0,2018,587.0,2018,0.9083179297597043,1,1,1
-f.e.a.r.,['Action'],8,5,"Monolith Productions, Inc.",13794,917,"['AntiCheat.PunkBuster', 'Engine.LithTech']",54.99,75.0,2010,865.0,2013,0.937665692339066,0,0,0
+f.e.a.r.,['Action'],8,5,"Monolith Productions, Inc.",13794,917,"['AntiCheat.PunkBuster', 'Engine.LithTech']",54.99,75.0,2010,865.0,2013,0.937665692339066,0,1,0
 charming heart,"['Casual', 'Indie']",8,4,Jungle House,147,7,['Engine.Unity'],,3.0,2023,117.0,2023,0.9545454545454546,0,1,0
 lost lands: a hidden object adventure,"['Adventure', 'Casual', 'Free to Play']",8,11,FIVE-BN GAMES,4849,647,"['Engine.Fase', 'Engine.Fase', 'SDK.OpenAL']",,46.0,2015,423.0,2015,0.882278020378457,0,1,1
 crypt,"['Adventure', 'Free to Play', 'Indie']",8,1,Valefisk,1156,120,"['Engine.Unity', 'Engine.Unity', 'SDK.SteamworksNET', 'SDK.UnityBurst', 'SDK.cURL']",,4.0,2022,234.0,2022,0.9059561128526645,0,1,0
@@ -818,7 +818,7 @@ curious expedition 2,"['Adventure', 'Indie', 'RPG', 'Simulation', 'Strategy']",8
 station to station,"['Casual', 'Indie', 'Simulation', 'Strategy']",8,22,Galaxy Grove,852,81,['Engine.Unreal'],,15.0,2023,432.0,2023,0.9131832797427653,0,1,0
 robocop: rogue city,"['Action', 'Adventure']",8,12,Teyon,11161,1000,['Engine.Unreal'],49.99,219.0,2023,4971.0,2023,0.9177699202368226,0,1,0
 scp : secret files,"['Adventure', 'Indie']",8,10,GameZoo Studio,3814,492,['Engine.Unreal'],,17.0,2022,927.0,2022,0.8857408267533674,0,1,0
-divine divinity,['RPG'],8,4,Larian Studios,2877,394,[' '],,45.0,2012,300.0,2012,0.8795475389789056,0,0,0
+divine divinity,['RPG'],8,4,Larian Studios,2877,394,[' '],,45.0,2012,300.0,2012,0.8795475389789056,0,1,0
 zombie kill of the week - reborn,"['Action', 'Indie']",8,1,Still Running,956,92,['Engine.GameMaker'],1.74,3.0,2015,288.0,2024,0.9122137404580153,0,1,1
 nothing,"['Action', 'Adventure', 'Casual', 'Racing']",8,1,Pixelatto,5330,325,"['Engine.Unity', 'Engine.Unity', 'SDK.cURL']",0.0,152.0,2024,694.0,2024,0.9425287356321839,0,1,0
 tametsi,['Indie'],9,1,Grip Top Games,1001,33,[' '],2.99,107.0,2017,203.0,2021,0.9680851063829787,0,1,0
@@ -855,14 +855,14 @@ the great ace attorney chronicles,['Adventure'],8,2,"CAPCOM Co., Ltd.",6134,377,
 roadwarden,"['Adventure', 'Indie', 'RPG']",9,1,Moral Anxiety Studio,3124,154,"['Engine.PyGame', 'Engine.RenPy']",10.99,58.0,2022,622.0,2023,0.9530201342281879,1,1,1
 shipwrecked 64,"['Adventure', 'Casual', 'Strategy']",9,1,Squeaks D'Corgeh,993,39,['Engine.Unreal'],7.99,47.0,2024,207.0,2024,0.9622093023255814,0,1,0
 recursed,"['Adventure', 'Indie']",9,8,Portponky,504,9,[' '],,11.0,2016,29.0,2023,0.9824561403508771,1,1,1
-far cry® 3 blood dragon,"['Action', 'Adventure']",8,8,Ubisoft Montreal,14280,1926,['Launcher.Ubisoft'],,41.0,2013,5485.0,2013,0.8811551277304702,0,0,0
+far cry® 3 blood dragon,"['Action', 'Adventure']",8,8,Ubisoft Montreal,14280,1926,['Launcher.Ubisoft'],,41.0,2013,5485.0,2013,0.8811551277304702,0,1,0
 gachi heroes,"['Action', 'Adventure', 'Casual', 'Indie', 'RPG', 'Simulation']",8,2,Lohsoft,2071,118,[' '],0.99,3.0,2018,1984.0,2023,0.946094106898127,0,1,0
 chess for idiots,"['Casual', 'Indie', 'Strategy', 'Early Access']",8,2,Polish Hacker,462,39,"['Engine.Unity', 'Engine.Unity', 'SDK.cURL']",0.0,64.0,2024,125.0,2024,0.9221556886227545,0,1,0
 pogo rogue,"['Action', 'Adventure', 'Indie', 'Free to Play', 'Early Access']",8,1,Bounce Back Games,63,0,"['Engine.GameMaker', 'Engine.GameMaker']",,16.0,2024,42.0,2024,1.0,0,1,0
 empty shell: prologue,"['Action', 'Adventure', 'Free to Play', 'Indie']",8,8,CC ARTS,1224,67,"['Engine.Unity', 'Engine.Unity', 'SDK.SteamworksNET', 'SDK.cURL']",0.0,10.0,2023,130.0,2023,0.9481022463206816,0,1,0
 the sand man,"['Adventure', 'Casual', 'Indie']",8,5,Uri Games,237,14,['Engine.WolfRPGEditor'],,4.0,2018,13.0,2018,0.9442231075697212,0,1,0
 the song of saya,"['Adventure', 'Simulation']",8,3,Nitroplus,4909,406,[' '],14.99,21.0,2019,429.0,2019,0.9236124176857949,0,1,0
-assassin's creed origins,"['Action', 'Adventure', 'RPG']",8,15,Ubisoft Montreal,87011,13669,"['Engine.UbisoftAnvil', 'Launcher.Ubisoft']",,4538.0,2017,41551.0,2017,0.864233214143822,0,0,0
+assassin's creed origins,"['Action', 'Adventure', 'RPG']",8,15,Ubisoft Montreal,87011,13669,"['Engine.UbisoftAnvil', 'Launcher.Ubisoft']",,4538.0,2017,41551.0,2017,0.864233214143822,0,1,0
 gibbous - a cthulhu adventure,"['Adventure', 'Indie']",8,14,Stuck In Attic,1852,211,['Engine.Unity'],,7.0,2019,297.0,2019,0.8977217644207465,1,1,1
 unturned,"['Action', 'Adventure', 'Casual', 'Indie', 'Free to Play']",8,1,Smartly Dressed Games,493557,45783,"['AntiCheat.BattlEye', 'Engine.Unity', 'AntiCheat.BattlEye', 'Engine.Unity', 'SDK.SteamworksNET', 'SDK.cURL']",0.0,67955.0,2017,112703.0,2023,0.9151129157859607,1,1,1
 railbound,"['Casual', 'Indie']",9,11,Afterburn,1290,52,['Engine.Unity'],12.99,42.0,2022,365.0,2022,0.9612518628912071,0,1,1
@@ -959,7 +959,7 @@ expeditions: rome,"['RPG', 'Strategy']",8,8,Logic Artists,4445,574,['Engine.Unre
 rec room,"['Adventure', 'Casual', 'Massively Multiplayer', 'Free to Play']",8,1,Rec Room,57221,5896,"['AntiCheat.EasyAntiCheat', 'Engine.Unity', 'AntiCheat.EasyAntiCheat', 'Engine.Unity', 'SDK.OpenVR', 'SDK.Opus', 'SDK.UnityBurst', 'SDK.cURL']",0.0,2477.0,2021,7154.0,2022,0.906586181219006,0,1,0
 one dreamer: prologue,"['Free to Play', 'Indie']",9,1,One Dreamer Company,767,30,"['Engine.Unity', 'Engine.Unity']",0.0,1.0,2020,45.0,2020,0.9623588456712673,1,1,1
 geometry wars 3: dimensions evolved,['Action'],8,5,Lucid Games,1318,151,[' '],,10.0,2014,397.0,2014,0.897208985704561,1,1,1
-mass effect (2007),"['Action', 'RPG']",8,5,BioWare,15238,1028,['Engine.Unreal'],29.99,53.0,2008,4183.0,2010,0.9368006885528095,0,0,0
+mass effect (2007),"['Action', 'RPG']",8,5,BioWare,15238,1028,['Engine.Unreal'],29.99,53.0,2008,4183.0,2010,0.9368006885528095,0,1,0
 climber animals: together,"['Adventure', 'Casual', 'Indie']",8,9,Payoff Games,120,4,['Engine.Unity'],3.99,31.0,2024,408.0,2024,0.967741935483871,0,1,0
 demonheart,"['Adventure', 'Casual', 'RPG', 'Simulation']",8,5,Rolling Crown,631,54,[' '],6.99,5.0,2017,109.0,2018,0.9211678832116789,1,1,1
 conan the mighty pig,"['Action', 'Adventure', 'Indie']",8,1,Mihai Morosanu,1124,117,[' '],,4.0,2016,2460.0,2023,0.9057211925866236,1,1,1
@@ -1010,7 +1010,7 @@ knightfall: a daring journey,"['Action', 'Indie', 'Racing']",8,1,Landfall,5099,6
 pleh!,"['Adventure', 'Free to Play', 'Indie']",9,1,Jester Games,947,45,"['Engine.Unity', 'Engine.Unity', 'SDK.Discord', 'SDK.SteamworksNET', 'SDK.cURL']",0.0,9.0,2023,124.0,2023,0.9546370967741935,0,1,0
 devil may cry hd collection,['Action'],8,8,"CAPCOM Co., Ltd.",10481,932,[' '],9.89,241.0,2018,767.0,2022,0.9183387365285202,0,1,0
 ys i,"['Action', 'Adventure', 'RPG']",8,1,Nihon Falcom,2165,272,[' '],,12.0,2013,544.0,2014,0.8883873615100534,0,1,0
-painkiller: black edition,['Action'],8,4,People Can Fly,1637,198,[' '],,20.0,2007,232.0,2014,0.8920980926430517,0,0,0
+painkiller: black edition,['Action'],8,4,People Can Fly,1637,198,[' '],,20.0,2007,232.0,2014,0.8920980926430517,0,1,0
 stick to the plan,"['Adventure', 'Casual', 'Indie', 'Strategy']",8,12,Dead Pixel Tales,96,2,['Engine.Unity'],,3.0,2023,23.0,2023,0.9795918367346939,0,1,0
 walking simulator 2020,"['Adventure', 'Free to Play', 'Indie', 'Simulation']",8,1,Pugscape,8060,1120,"['Engine.Unreal', 'Engine.Unreal', 'SDK.NVIDIA_APEX', 'SDK.NVIDIA_Nsight_Aftermath', 'SDK.NVIDIA_PhysX', 'SDK.NvCloth', 'SDK.Ogg', 'SDK.Vorbis']",,19.0,2020,473.0,2020,0.8779956427015251,0,1,0
 a way out,"['Action', 'Adventure', 'Indie']",8,8,Hazelight,53739,7903,"['Engine.Unreal', 'Launcher.EA_App']",,560.0,2020,3055.0,2023,0.8717919600272541,0,1,0
@@ -1072,11 +1072,11 @@ united penguin kingdom: huddle up,"['Indie', 'Simulation', 'Strategy']",8,18,Tur
 self-delusion,"['Action', 'Adventure', 'Indie']",8,2,RollingBread,85,5,['Engine.Unity'],,1.0,2022,20.0,2022,0.9444444444444444,0,1,0
 2d dawg 2,"['Casual', 'Free to Play', 'Indie']",8,1,Тот Самый,190,18,"['Container.Electron', 'Container.Electron']",,1.0,2023,49.0,2023,0.9134615384615384,0,1,0
 planetary annihilation: titans,"['Action', 'Indie', 'Strategy']",8,12,Planetary Annihilation Inc,11523,2068,[' '],,256.0,2015,4577.0,2017,0.8478404826723567,1,1,1
-minerva: metastasis,"['Action', 'Adventure']",8,7,Adam Foster,1724,148,"['Engine.Source', 'Engine.Source', 'SDK.CEF', 'SDK.Miles_Sound_System']",,8.0,2013,473.0,2019,0.9209401709401709,0,0,0
+minerva: metastasis,"['Action', 'Adventure']",8,7,Adam Foster,1724,148,"['Engine.Source', 'Engine.Source', 'SDK.CEF', 'SDK.Miles_Sound_System']",,8.0,2013,473.0,2019,0.9209401709401709,0,1,0
 xoxo blood droplets,"['Casual', 'Free to Play', 'Indie']",8,1,GB Patch Games,216,22,"['Engine.PyGame', 'Engine.RenPy', 'Engine.PyGame', 'Engine.RenPy', 'SDK.Python', 'SDK.SDL']",,2.0,2019,35.0,2019,0.907563025210084,0,1,0
 fears to fathom - ironbark lookout,"['Adventure', 'Casual', 'Indie']",8,9,Rayll Studios,2692,222,['Engine.Unity'],9.99,46.0,2023,731.0,2023,0.9238160603980783,0,1,0
 女拳主義f-ist,"['Action', 'Indie', 'Sports']",8,6,Happy Monster Studio,2064,296,['Engine.Construct'],,15.0,2022,1156.0,2022,0.8745762711864407,0,1,0
-crazy taxi,"['Action', 'Racing']",8,5,SEGA,2803,447,[' '],,13.0,2011,362.0,2017,0.8624615384615385,0,0,0
+crazy taxi,"['Action', 'Racing']",8,5,SEGA,2803,447,[' '],,13.0,2011,362.0,2017,0.8624615384615385,0,1,0
 rune classic,"['Action', 'Adventure']",8,6,Human Head Studios,761,89,['Engine.Unreal'],,4.0,2012,28.0,2012,0.8952941176470588,0,1,0
 dragon ruins,"['Casual', 'RPG']",8,3,Graverobber Foundation,76,3,['Engine.Unity'],,11.0,2024,19.0,2024,0.9620253164556962,0,1,0
 monster cards,"['Casual', 'Indie', 'Free to Play', 'Early Access']",8,12,GasaiGames,310,13,"['Engine.Unity', 'Engine.Unity', 'SDK.Discord', 'SDK.Photon', 'SDK.SteamworksNET', 'SDK.UnityBurst', 'SDK.cURL']",0.0,76.0,2022,93.0,2024,0.9597523219814241,0,1,0
@@ -1088,7 +1088,7 @@ burger,"['Action', 'Adventure', 'Casual', 'Indie', 'Simulation', 'Free to Play']
 hmmsim metro,"['Indie', 'Simulation', 'Early Access']",8,5,Jeminie Interactive,1183,147,['Engine.Unreal'],,23.0,2021,169.0,2021,0.8894736842105263,0,1,0
 forgive me father 2,"['Action', 'Indie', 'Early Access']",8,2,Byte Barrel,377,37,['Engine.Unreal'],,19.0,2023,120.0,2023,0.9106280193236715,0,1,0
 bad guys at school,"['Action', 'Casual', 'Indie', 'Simulation']",8,1,Forceight,1470,221,['Engine.Unreal'],,15.0,2020,83.0,2020,0.8693081017149615,0,1,0
-assassin's creed revelations,"['Action', 'Adventure']",8,15,Ubisoft Montreal,13431,2335,"['AntiCheat.PunkBuster', 'Engine.UbisoftAnvil', 'Launcher.Ubisoft']",,181.0,2011,3105.0,2011,0.8518964861093492,0,0,0
+assassin's creed revelations,"['Action', 'Adventure']",8,15,Ubisoft Montreal,13431,2335,"['AntiCheat.PunkBuster', 'Engine.UbisoftAnvil', 'Launcher.Ubisoft']",,181.0,2011,3105.0,2011,0.8518964861093492,0,1,0
 poon puzzle,"['Casual', 'Indie', 'Simulation']",7,6,Shmoops Games,45,1,['Engine.Godot'],,4.0,2024,32.0,2024,0.9782608695652174,0,1,0
 arena,"['Action', 'Free to Play', 'Indie']",8,1,Clay Peterson,209,17,"['Engine.Unity', 'Engine.Unity', 'SDK.UnityURP']",,2.0,2020,23.0,2020,0.9247787610619469,0,1,1
 anodyne 2: return to dust,"['Adventure', 'Indie', 'RPG']",8,10,Melos Han-Tani,641,34,['Engine.Unity'],,4.0,2019,95.0,2019,0.9496296296296296,1,1,1
@@ -1099,14 +1099,14 @@ war brokers,"['Action', 'Indie', 'Massively Multiplayer', 'Simulation', 'Early A
 stolen realm,"['Adventure', 'RPG', 'Strategy']",8,7,Burst2Flame Entertainment,2095,330,['Engine.Unity'],,238.0,2024,1506.0,2023,0.8639175257731959,0,1,1
 clash: artifacts of chaos,"['Action', 'Adventure', 'Indie']",8,13,ACE Team,745,53,['Engine.Unreal'],,10.0,2023,148.0,2023,0.9335839598997494,0,1,0
 saviorless,"['Action', 'Adventure', 'Indie']",8,9,Empty Head Games,124,9,"['Engine.Unity', 'SDK.EpicOnlineServices']",,5.0,2024,30.0,2024,0.9323308270676691,1,1,1
-warlock - master of the arcane,['Strategy'],8,5,Ino-Co Plus,2182,349,[' '],,54.0,2012,3490.0,2012,0.8621098380086922,0,0,0
+warlock - master of the arcane,['Strategy'],8,5,Ino-Co Plus,2182,349,[' '],,54.0,2012,3490.0,2012,0.8621098380086922,0,1,0
 my friend peppa pig,['Adventure'],8,17,Petoons Studio,792,108,['Engine.Unity'],,13.0,2021,71.0,2022,0.88,0,1,0
 final fantasy v,['RPG'],8,12,Square Enix,1404,203,['Engine.Unity'],,132.0,2021,3953.0,2021,0.8736776602364654,0,1,0
 galacticare,"['Simulation', 'Strategy']",8,10,Brightrock Games,186,16,"['Engine.Unity', 'SDK.EpicOnlineServices']",,460.0,2024,544.0,2024,0.9207920792079208,0,1,0
 zombie army 4: dead war,['Action'],8,12,Rebellion,6576,1104,"['Engine.Asura', 'SDK.EpicOnlineServices']",,785.0,2021,3352.0,2021,0.85625,0,1,0
 the witch's cauldron,"['Casual', 'Indie', 'Simulation']",8,2,Harvey games,351,32,['Engine.Unity'],,11.0,2024,168.0,2024,0.9164490861618799,0,1,0
 ghost of a tale,"['Action', 'Adventure', 'Indie', 'RPG']",8,7,SeithCG,4207,367,['Engine.Unity'],,17.0,2018,883.0,2018,0.919763882815916,0,1,0
-bully: scholarship edition,"['Action', 'Adventure']",8,5,Rockstar New England,26878,4893,[' '],,400.0,2008,2010.0,2014,0.8459916275849044,0,0,0
+bully: scholarship edition,"['Action', 'Adventure']",8,5,Rockstar New England,26878,4893,[' '],,400.0,2008,2010.0,2014,0.8459916275849044,0,1,0
 magicube,['Indie'],8,1,nebu soku,114,1,['Engine.Pico8'],2.99,8.0,2023,44.0,2023,0.991304347826087,0,1,0
 dishwashing simulator,['Simulation'],8,1,Frinky,255,26,['Engine.Unreal'],,17.0,2024,116.0,2024,0.9074733096085409,0,1,0
 magic wand,"['Adventure', 'Indie', 'RPG']",8,1,thecatamites,66,3,['Engine.Unity'],,1.0,2017,6.0,2017,0.9565217391304348,1,1,1
@@ -1116,7 +1116,7 @@ savant - ascent remix,"['Action', 'Indie']",8,16,D-Pad Studio,295,28,['Engine.Un
 g-darius hd,['Action'],8,2,TAITO CORP.,111,5,[' '],,3.0,2022,56.0,2022,0.9568965517241379,0,1,0
 cafe master story,"['Casual', 'Indie', 'Simulation', 'Strategy']",8,5,"Kairosoft Co.,Ltd",105,6,['Engine.Unity'],,20.0,2023,308.0,2023,0.9459459459459459,0,1,0
 reaver,"['Action', 'Indie', 'Early Access']",8,1,MAD TRIO,367,20,['Engine.Unity'],10.49,5.0,2023,47.0,2023,0.9483204134366925,0,1,0
-brothers in arms: road to hill 30,['Action'],8,5,Gearbox Software,1464,202,['Engine.Unreal'],,23.0,2008,105.0,2024,0.8787515006002401,0,0,0
+brothers in arms: road to hill 30,['Action'],8,5,Gearbox Software,1464,202,['Engine.Unreal'],,23.0,2008,105.0,2024,0.8787515006002401,0,1,0
 yorg.io,"['Casual', 'Indie', 'Strategy']",8,20,Tobias Springer,538,61,[' '],,20.0,2019,357.0,2021,0.8981636060100167,0,1,0
 kitten burst,"['Adventure', 'Indie', 'Racing', 'RPG']",8,1,Lithodelphis,153,1,['Engine.Unreal'],,4.0,2024,24.0,2024,0.9935064935064936,0,1,0
 atelier ryza: ever darkness & the secret hideout,['RPG'],8,4,"KOEI TECMO GAMES CO., LTD.",6768,994,[' '],,118.0,2019,4616.0,2019,0.871940221592373,0,1,0
@@ -1234,7 +1234,7 @@ tales of the black forest,"['Adventure', 'Indie', 'RPG']",9,4,拾英工作室,11
 outlast,"['Action', 'Adventure', 'Indie']",9,9,Red Barrels,110453,4087,['Engine.Unreal'],19.99,351.0,2013,11827.0,2017,0.9643181421337524,1,1,1
 the murder of sonic the hedgehog,"['Casual', 'Free to Play', 'Indie', 'Simulation']",9,1,SEGA,20268,543,"['Engine.Unity', 'Engine.Unity', 'SDK.UnityBurst', 'SDK.cURL']",0.0,83.0,2023,15543.0,2023,0.9739080294075249,0,1,1
 tomb raider,"['Action', 'Adventure']",9,14,Crystal Dynamics,223962,9010,['SDK.EpicOnlineServices'],14.99,1047.0,2013,89538.0,2020,0.9613258245626084,1,1,1
-fallout: new vegas,"['Action', 'RPG']",9,5,Obsidian Entertainment,200580,7996,[' '],9.99,23108.0,2010,51038.0,2010,0.9616638539429273,0,0,0
+fallout: new vegas,"['Action', 'RPG']",9,5,Obsidian Entertainment,200580,7996,[' '],9.99,23108.0,2010,51038.0,2010,0.9616638539429273,0,1,0
 a castle full of cats,"['Adventure', 'Casual']",9,15,Devcats,3117,19,[' '],3.99,26.0,2022,190.0,2022,0.9939413265306123,1,1,0
 星空列车与白的旅行,['Adventure'],9,2,しらたまこ,3672,32,['Engine.Unity'],19.99,24.0,2021,300.0,2021,0.9913606911447084,0,1,0
 steins;gate,['Adventure'],9,4,MAGES. Inc.,16428,416,[' '],29.99,171.0,2016,1238.0,2017,0.9753027784374257,0,1,0
@@ -1284,7 +1284,7 @@ batman: arkham asylum goty edition,"['Action', 'Adventure']",9,5,Rocksteady Stud
 juice galaxy,"['Indie', 'RPG', 'Free to Play', 'Early Access']",9,1,Fishlicka,4104,59,"['Engine.Unity', 'Engine.Unity', 'SDK.SteamworksNET', 'SDK.UnityBurst', 'SDK.cURL']",0.0,132.0,2023,243.0,2024,0.9858275282248379,1,1,1
 "hot dogs, horseshoes & hand grenades","['Action', 'Simulation', 'Early Access']",9,1,RUST LTD.,19561,602,['Engine.Unity'],19.99,389.0,2016,992.0,2021,0.9701433318454595,0,1,0
 mon bazou,"['Adventure', 'Casual', 'Indie', 'Racing', 'Simulation', 'Early Access']",9,20,Santa Goat,11770,310,['Engine.Unity'],15.99,371.0,2021,2012.0,2023,0.9743377483443708,0,1,0
-duck game,"['Action', 'Indie']",9,1,Landon Podbielski,36046,1279,['Engine.XNA'],12.99,263.0,2015,5047.0,2016,0.9657334226389819,0,0,0
+duck game,"['Action', 'Indie']",9,1,Landon Podbielski,36046,1279,['Engine.XNA'],12.99,263.0,2015,5047.0,2016,0.9657334226389819,0,1,0
 super hexagon,"['Action', 'Indie']",9,1,Terry Cavanagh,23457,760,[' '],2.99,26.0,2012,2650.0,2013,0.9686170871701697,1,1,1
 fran bow,"['Adventure', 'Indie']",9,6,Killmonday Games AB,15696,458,"['Engine.GameMaker', 'Engine.Unity']",14.99,109.0,2015,796.0,2021,0.9716478890677231,1,1,1
 suchart: creative space,"['Action', 'Adventure', 'Casual', 'Indie', 'Simulation', 'Free to Play']",9,12,Goose Minded,6582,135,"['Engine.Unity', 'SDK.EpicOnlineServices', 'Engine.Unity', 'SDK.EpicOnlineServices']",0.0,60.0,2021,879.0,2021,0.9799017418490398,0,1,0
@@ -1365,7 +1365,7 @@ peggle deluxe,['Casual'],9,5,"PopCap Games, Inc.",8088,227,[' '],4.99,254.0,2007
 marco & the galaxy dragon,"['Adventure', 'Casual', 'Simulation']",9,5,TOKYOTOON,6191,156,"['Engine.KiriKiri', 'Engine.Unity']",7.99,19.0,2020,287.0,2020,0.9754214589569875,0,1,0
 teardown,"['Action', 'Indie', 'Simulation', 'Strategy']",9,9,Tuxedo Labs,85338,3947,[' '],29.99,3304.0,2022,8339.0,2020,0.9557932463459707,0,1,0
 danganronpa 2: goodbye despair,['Adventure'],9,3,"Spike Chunsoft Co., Ltd.",23547,901,[' '],19.99,303.0,2016,1869.0,2021,0.9631462696335078,1,1,1
-supreme commander: forged alliance,['Strategy'],9,9,Gas Powered Games,12237,399,[' '],12.99,1412.0,2011,2113.0,2022,0.9684235517568851,0,0,0
+supreme commander: forged alliance,['Strategy'],9,9,Gas Powered Games,12237,399,[' '],12.99,1412.0,2011,2113.0,2022,0.9684235517568851,0,1,0
 babbdi,"['Adventure', 'Casual', 'Free to Play']",9,1,Sirius Lemaitre,4372,93,"['Engine.Unity', 'Engine.Unity', 'SDK.cURL']",0.0,26.0,2022,117.0,2023,0.9791713325867861,1,1,1
 kindergarten 2,"['Adventure', 'Indie']",9,1,Con Man Games,4090,83,['Engine.Unity'],14.99,101.0,2019,1060.0,2019,0.980110232446681,1,1,1
 beat saber,['Indie'],9,7,Beat Games,69202,3140,['Engine.Unity'],29.99,901.0,2019,4472.0,2020,0.9565950623427608,0,1,0
@@ -1404,7 +1404,7 @@ star fetchers,"['Action', 'Adventure', 'Free to Play', 'Indie']",9,9,Svavelstick
 a space for the unbound,"['Adventure', 'Indie']",9,12,Mojiken,4348,103,['Engine.Unity'],19.99,37.0,2023,338.0,2023,0.9768591327791507,0,1,0
 quake,['Action'],9,6,id Software,12888,461,['Engine.Kex'],9.99,118.0,2007,2874.0,2021,0.9654655779459136,0,1,0
 候鸟,['Adventure'],9,2,KIDFansClub,2498,39,"['Engine.PyGame', 'Engine.RenPy']",10.99,16.0,2023,162.0,2023,0.984627512810406,0,1,0
-the elder scrolls v: skyrim,['RPG'],8,10,Bethesda Game Studios,299566,16247,[' '],19.99,2649.0,2011,287411.0,2011,0.9485549993192174,0,0,0
+the elder scrolls v: skyrim,['RPG'],8,10,Bethesda Game Studios,299566,16247,[' '],19.99,2649.0,2011,287411.0,2011,0.9485549993192174,0,1,0
 psychonauts 2,"['Action', 'Adventure']",9,9,Double Fine Productions,10516,358,['Engine.Unreal'],59.99,93.0,2021,7262.0,2021,0.9670774324075777,1,1,1
 饿殍：明末千里行,"['Adventure', 'Indie', 'RPG']",9,4,零创游戏(ZerocreationGame),14095,510,['Engine.Unity'],,1977.0,2024,5093.0,2024,0.9650804519000342,0,1,0
 fox hime zero,"['Adventure', 'Casual', 'Indie', 'RPG']",9,5,AsicxArt,5127,134,['Engine.Unity'],1.99,14.0,2018,383.0,2022,0.9745295571184186,0,1,1
@@ -1435,7 +1435,7 @@ your turn to die -death game by majority-,"['Adventure', 'Indie', 'Early Access'
 crypt of the necrodancer,"['Action', 'Indie', 'RPG']",9,11,Brace Yourself Games,23035,981,[' '],14.99,216.0,2015,2282.0,2015,0.9591522318454364,1,1,1
 bug fables: the everlasting sapling,"['Action', 'Adventure', 'Indie', 'RPG']",9,8,Moonsprout Games,4721,126,['Engine.Unity'],19.99,71.0,2019,325.0,2021,0.974004538890035,0,1,0
 sticky business,"['Casual', 'Simulation']",9,9,Spellgarden Games,4013,99,"['Engine.Unity', 'SDK.EpicOnlineServices']",9.99,101.0,2023,1120.0,2023,0.9759241245136187,0,1,1
-flatout 2,['Racing'],9,6,Bugbear Entertainment,15282,600,[' '],,135.0,2006,397.0,2010,0.9622213826973933,0,0,0
+flatout 2,['Racing'],9,6,Bugbear Entertainment,15282,600,[' '],,135.0,2006,397.0,2010,0.9622213826973933,0,1,0
 bopl battle,['Action'],9,14,Johan Grönvall,7989,268,['Engine.Unity'],9.99,1184.0,2023,1595.0,2023,0.9675426910500181,0,1,0
 class of '09: the re-up,"['Casual', 'Indie', 'RPG', 'Simulation']",9,1,SBN3,2182,34,"['Engine.PyGame', 'Engine.RenPy']",14.99,115.0,2023,284.0,2023,0.9846570397111913,0,1,1
 there is no game: jam edition 2015,"['Adventure', 'Casual', 'Free to Play', 'Indie']",9,2,Draw Me A Pixel,6274,191,"['Engine.Unity', 'Engine.Unity']",0.0,14.0,2020,197.0,2020,0.9704563031709204,0,1,1
@@ -1493,7 +1493,7 @@ flowers -le volume sur ete-,['Casual'],9,3,Innocent Grey,1113,6,[' '],19.99,6.0,
 psychopomp,"['Adventure', 'Indie', 'Free to Play']",9,4,Fading Club,2222,40,"['Engine.Godot', 'Engine.Godot']",0.0,30.0,2024,65.0,2024,0.982316534040672,0,1,0
 死寂（deathlystillness）,"['Action', 'Adventure', 'Casual', 'Indie', 'Free to Play']",9,2,谌嘉诚,19060,834,"['Engine.Unreal', 'Engine.Unreal', 'SDK.AMD_TrueAudio_Next', 'SDK.Intel_OID', 'SDK.Intel_oneTBB', 'SDK.NVIDIA_APEX', 'SDK.NVIDIA_GeForce_Now', 'SDK.NVIDIA_Nsight_Aftermath', 'SDK.NVIDIA_PhysX', 'SDK.NvCloth', 'SDK.OculusXRPlugin', 'SDK.Ogg', 'SDK.OpenXR', 'SDK.Steam_Audio', 'SDK.Vorbis', 'SDK.XAudio2']",,145.0,2021,1182.0,2021,0.9580778124057505,0,1,0
 the binding of isaac,"['Action', 'Adventure', 'Indie', 'RPG']",9,1,Edmund McMillen,55427,2834,[' '],2.99,289.0,2011,12575.0,2013,0.9513568253205403,0,1,1
-"warhammer 40,000: dawn of war - dark crusade",['Strategy'],9,5,Relic Entertainment,7796,276,['Engine.Essence_Engine'],,453.0,2007,2259.0,2015,0.9658077304261645,0,0,0
+"warhammer 40,000: dawn of war - dark crusade",['Strategy'],9,5,Relic Entertainment,7796,276,['Engine.Essence_Engine'],,453.0,2007,2259.0,2015,0.9658077304261645,0,1,0
 ty the tasmanian tiger,"['Action', 'Adventure', 'Indie']",9,5,Krome Studios,2439,49,[' '],14.99,29.0,2016,230.0,2016,0.9803054662379421,0,1,0
 the talos principle,"['Action', 'Adventure', 'Indie']",9,13,Croteam,28572,1344,['Engine.Serious_Engine'],29.99,438.0,2014,4007.0,2015,0.955074207781789,1,1,1
 nekopara extra,"['Casual', 'Indie']",9,3,NEKO WORKs,3558,92,['Engine.KiriKiri'],4.99,15.0,2018,575.0,2018,0.9747945205479452,0,1,0
@@ -1554,7 +1554,7 @@ star wars™ republic commando,['Action'],9,5,LucasArts,14443,642,['Engine.Unrea
 葬花·暗黑桃花源,"['Adventure', 'Casual', 'Indie', 'RPG']",9,3,零创游戏(ZerocreationGame),5011,167,['Engine.Unity'],,93.0,2021,897.0,2021,0.9677481653147934,0,1,0
 fireworks mania,"['Action', 'Casual', 'Indie', 'Simulation']",9,22,Laumania ApS,5244,177,['Engine.Unity'],,83.0,2020,797.0,2021,0.9673491975650249,0,1,0
 cattails: wildwood story,"['Indie', 'RPG', 'Simulation']",9,3,Falcon Development,1164,11,['Engine.GameMaker'],19.99,108.0,2023,1143.0,2023,0.9906382978723405,0,1,1
-insaniquarium! deluxe,['Casual'],9,1,"PopCap Games, Inc.",4961,164,[' '],,102.0,2006,277.0,2021,0.968,0,0,0
+insaniquarium! deluxe,['Casual'],9,1,"PopCap Games, Inc.",4961,164,[' '],,102.0,2006,277.0,2021,0.968,0,1,0
 怠惰的怪獸公主不想工作,"['Casual', 'Indie', 'RPG', 'Simulation', 'Strategy']",9,7,PantyParrot,5056,169,['Engine.Unity'],,53.0,2022,1102.0,2022,0.9676555023923445,0,1,1
 garden galaxy,"['Casual', 'Indie']",9,1,Anneka Tran,1682,28,['Engine.Unity'],9.99,64.0,2022,415.0,2023,0.9836257309941521,0,1,0
 hexcells infinite,"['Casual', 'Indie', 'Strategy']",9,9,Matthew Brown,4059,124,['Engine.Unity'],4.99,272.0,2014,384.0,2021,0.9703562036815683,1,1,1
@@ -1605,7 +1605,7 @@ dust: an elysian tail,"['Action', 'Adventure', 'Indie', 'RPG']",9,6,Humble Heart
 swallow the sea,"['Action', 'Adventure', 'Casual', 'Free to Play', 'Indie']",9,1,Talia bob Mair,2043,46,"['Engine.Unity', 'Engine.Unity']",0.0,4.0,2021,156.0,2021,0.9779798946864529,1,1,0
 rakuen,['Store Genres'],9,13,Laura Shigihara,5471,202,['Engine.RPGMaker'],14.99,17.0,2017,235.0,2019,0.9643927375286444,1,1,1
 minishoot' adventures,"['Action', 'Adventure', 'Casual', 'RPG']",9,14,SoulGame Studio,2146,50,['Engine.Unity'],14.99,139.0,2024,1367.0,2024,0.9772313296903461,0,1,1
-"warhammer 40,000: dawn of war - soulstorm",['Strategy'],9,3,Relic Entertainment,15033,714,['Engine.Essence_Engine'],,1339.0,2008,3283.0,2015,0.9546580301009716,0,0,0
+"warhammer 40,000: dawn of war - soulstorm",['Strategy'],9,3,Relic Entertainment,15033,714,['Engine.Essence_Engine'],,1339.0,2008,3283.0,2015,0.9546580301009716,0,1,0
 cassette beasts,"['Indie', 'RPG']",9,10,Bytten Studio,6456,257,['Engine.Godot'],19.99,706.0,2023,2764.0,2023,0.9617160732906301,1,1,0
 the jackbox party pack 7,"['Casual', 'Indie', 'Strategy']",9,1,"Jackbox Games, Inc.",4179,141,[' '],29.99,508.0,2020,10599.0,2021,0.9673611111111111,1,1,1
 yakuza: like a dragon,"['Action', 'Adventure', 'RPG']",9,12,Ryu Ga Gotoku Studio,26772,1399,[' '],59.99,1599.0,2020,9535.0,2020,0.9503390011004225,0,1,0
@@ -1613,7 +1613,7 @@ monster girl island: prologue,"['Adventure', 'Free to Play', 'Indie']",9,1,Redam
 steins;gate 0,['Adventure'],9,4,MAGES. Inc.,5372,199,[' '],34.99,69.0,2018,787.0,2018,0.9642793035361694,0,1,0
 nukitashi 2,"['Adventure', 'Casual']",9,4,Qruppo,1125,13,[' '],19.99,49.0,2024,1252.0,2024,0.9885764499121266,0,1,0
 team fortress 2,"['Action', 'Free to Play']",8,26,Valve,980382,66667,"['Engine.Source', 'Engine.Source', 'SDK.Autodesk_FBX', 'SDK.Bink_Video', 'SDK.Miles_Sound_System', 'SDK.OpenVR', 'SDK.SDL', 'SDK.Steam_Networking', 'SDK.cURL']",0.0,94938.0,2007,253997.0,2023,0.936328672297094,1,1,1
-audiosurf,['Indie'],9,1,Dylan Fitterer,10341,458,[' '],9.99,21.0,2008,5977.0,2011,0.9575886656171868,0,0,0
+audiosurf,['Indie'],9,1,Dylan Fitterer,10341,458,[' '],9.99,21.0,2008,5977.0,2011,0.9575886656171868,0,1,0
 half-life: opposing force,['Action'],9,4,Gearbox Software,21086,1068,['Engine.GoldSource'],4.99,130.0,1999,5639.0,2023,0.9517920014444344,1,1,1
 submachine: legacy,"['Adventure', 'Indie']",9,1,Mateusz Skutnik,1022,10,['Engine.GameMaker'],24.99,12.0,2023,523.0,2023,0.9903100775193798,0,1,0
 像素女友,"['Adventure', 'Casual', 'Indie', 'RPG', 'Simulation']",9,1,HIROKO IMAKI,1315,20,"['Engine.TyranoBuilder', 'Engine.TyranoBuilder', 'SDK.NWJS']",0.0,3.0,2020,212.0,2020,0.9850187265917603,0,1,0
@@ -1621,7 +1621,7 @@ machinarium,"['Adventure', 'Indie']",9,18,Amanita Design,13770,651,[' '],19.99,1
 bang-on balls: chronicles,"['Action', 'Adventure', 'Casual', 'Indie']",9,12,Exit Plan Games,4038,136,['Engine.Unreal'],14.98,60.0,2023,780.0,2023,0.9674173454719693,0,1,0
 living with sister: monochrome fantasy,['Indie'],9,3,Inusuku,3955,132,['Engine.WolfRPGEditor'],12.99,559.0,2024,5044.0,2024,0.9677024712503058,0,1,0
 the talos principle 2,"['Action', 'Adventure']",9,12,Croteam,8655,372,"['Engine.Unreal', 'SDK.EpicOnlineServices']",29.99,645.0,2023,7258.0,2023,0.9587902957793287,0,1,0
-recettear: an item shop's tale,"['RPG', 'Indie']",9,2,EasyGameStation,6745,272,[' '],19.99,25.0,2010,2986.0,2010,0.9612369958671797,0,0,0
+recettear: an item shop's tale,"['RPG', 'Indie']",9,2,EasyGameStation,6745,272,[' '],19.99,25.0,2010,2986.0,2010,0.9612369958671797,0,1,0
 東方虹龍洞 ～ unconnected marketeers.,"['Action', 'Indie']",9,1,上海アリス幻樂団,1683,33,[' '],,19.0,2021,3416.0,2021,0.9807692307692307,0,1,0
 northern journey,['Adventure'],9,1,Slid Studio,2423,64,['Engine.Unreal'],11.99,15.0,2021,153.0,2023,0.9742661841576197,0,1,0
 coloring game 2,"['Casual', 'Free to Play', 'Indie']",9,103,L. Stotch,3265,101,"['SDK.Greenworks', 'SDK.NWJS', 'SDK.NodeJS']",0.0,36.0,2020,502.0,2020,0.9699940582293524,0,1,0
@@ -1705,7 +1705,7 @@ brothers - a tale of two sons,"['Action', 'Adventure', 'Indie']",8,9,Starbreeze 
 pikuniku,"['Action', 'Adventure', 'Casual', 'Indie']",9,11,Arnaud De Bock,8213,376,['Engine.Unity'],12.99,121.0,2019,2123.0,2020,0.956223076027477,1,1,1
 antichamber,"['Adventure', 'Indie']",9,1,Alexander Bruce,15728,817,['Engine.Unreal'],19.99,25.0,2013,2369.0,2013,0.9506195225143548,1,1,1
 samorost 1,"['Adventure', 'Casual', 'Indie']",9,18,Amanita Design,3873,142,"['Engine.Adobe_AIR', 'Engine.Adobe_AIR']",0.0,6.0,2021,186.0,2021,0.9646326276463263,0,1,1
-alien swarm,['Action'],8,1,Valve,19922,1079,"['Engine.Source', 'Engine.Source', 'SDK.Bink_Video', 'SDK.Miles_Sound_System']",0.0,29.0,2010,60467.0,2010,0.9486214942145612,0,0,0
+alien swarm,['Action'],8,1,Valve,19922,1079,"['Engine.Source', 'Engine.Source', 'SDK.Bink_Video', 'SDK.Miles_Sound_System']",0.0,29.0,2010,60467.0,2010,0.9486214942145612,0,1,0
 stronghold hd,"['Simulation', 'Strategy']",9,10,FireFly Studios,8827,416,[' '],,213.0,2001,755.0,2020,0.9549929676511955,0,1,0
 timberborn,"['Indie', 'Simulation', 'Strategy', 'Early Access']",8,12,Mechanistry,23133,1290,['Engine.Unity'],24.99,2728.0,2021,12354.0,2021,0.9471809360029481,0,1,1
 montaro,"['Casual', 'Indie']",9,8,JCKSLAP,11586,580,[' '],0.99,10.0,2016,1001.0,2021,0.9523261548578005,0,1,0
@@ -1718,7 +1718,7 @@ deadbolt,"['Action', 'Indie']",9,1,Hopoo Games,4908,205,['Engine.GameMaker'],9.9
 skyrim script extender (skse),['RPG'],9,1,The SKSE Team,1151,21,[' '],0.0,3.0,2015,33.0,2015,0.9820819112627986,0,1,0
 steamworld dig 2,"['Action', 'Adventure', 'Indie']",9,6,Image & Form Games,6392,288,[' '],2.99,100.0,2017,3736.0,2021,0.9568862275449102,1,1,1
 slime rancher 2,"['Action', 'Adventure', 'Casual', 'Indie', 'Simulation', 'Early Access']",8,9,Monomi Park,25566,1486,['Engine.Unity'],20.99,543.0,2022,21524.0,2022,0.9450687564690227,0,1,0
-"warhammer 40,000: dawn of war - game of the year edition",['Strategy'],9,5,Relic Entertainment,9287,458,['Engine.Essence_Engine'],,355.0,2007,3241.0,2015,0.9530015392508979,0,0,0
+"warhammer 40,000: dawn of war - game of the year edition",['Strategy'],9,5,Relic Entertainment,9287,458,['Engine.Essence_Engine'],,355.0,2007,3241.0,2015,0.9530015392508979,0,1,0
 resonance of the ocean,"['Adventure', 'Casual', 'Indie']",9,13,Image Labo,1483,35,"['Engine.Unity', 'Engine.Unity', 'SDK.SteamworksNET', 'SDK.cURL']",0.0,4.0,2022,29.0,2022,0.9769433465085638,0,1,1
 a dance of fire and ice,['Indie'],8,15,7th Beat Games,60545,3872,['Engine.Unity'],5.99,2379.0,2019,9330.0,2021,0.9398916435102534,1,1,1
 melatonin,"['Action', 'Indie']",9,10,Half Asleep,5182,224,['Engine.Unity'],14.99,101.0,2022,314.0,2023,0.9585645578986312,0,1,1
@@ -1783,7 +1783,7 @@ reventure,"['Adventure', 'Indie']",8,14,Pixelatto,8156,439,['Engine.Unity'],7.99
 floating point,"['Casual', 'Free to Play', 'Indie']",9,1,Suspicious Developments,3591,157,"['Engine.Unity', 'Engine.Unity']",0.0,6.0,2014,754.0,2018,0.958110992529349,1,1,1
 turnip boy commits tax evasion,"['Action', 'Adventure', 'Casual', 'Indie']",8,9,Snoozy Kazoo,10713,607,['Engine.Unity'],14.99,47.0,2021,356.0,2023,0.9463780918727915,1,1,1
 disco elysium,['RPG'],8,13,ZA/UM,86126,6154,['Engine.Unity'],,1736.0,2019,8081.0,2020,0.9333116601647161,0,1,1
-dead space 2,"['Action', 'Adventure']",8,7,Visceral Games,22081,1392,[' '],,136.0,2011,2484.0,2011,0.9406978230307161,0,0,0
+dead space 2,"['Action', 'Adventure']",8,7,Visceral Games,22081,1392,[' '],,136.0,2011,2484.0,2011,0.9406978230307161,0,1,0
 "if on a winter's night, four travelers",['Adventure'],9,1,Dead Idle Games,1941,67,"['Engine.AdventureGameStudio', 'Engine.AdventureGameStudio', 'SDK.Allegro', 'SDK.Ogg', 'SDK.Vorbis']",0.0,7.0,2021,129.0,2021,0.9666334661354582,1,1,0
 9-nine-:episode 4,['Casual'],9,3,PALETTE,869,16,['Engine.KiriKiri'],19.99,15.0,2021,111.0,2021,0.9819209039548022,0,1,0
 kingdom rush vengeance,['Strategy'],8,11,Ironhide Game Studio,7643,408,[' '],,360.0,2020,3206.0,2020,0.9493230654577072,0,1,1
@@ -1836,14 +1836,14 @@ last command,"['Action', 'Indie', 'RPG']",9,8,CreSpirit,1749,60,['Engine.Unity']
 spooky's jump scare mansion: hd renovation,"['Action', 'Adventure', 'Indie']",9,4,Albino Moose Games,2661,110,['Engine.Unity'],9.99,31.0,2017,173.0,2020,0.9603031396607723,0,1,1
 pajama sam in no need to hide when it's dark outside,"['Adventure', 'Casual']",9,4,Humongous Entertainment,1125,29,['Emulator.SCUMMVM'],,32.0,2014,169.0,2016,0.9748700173310225,1,1,1
 max payne 2: the fall of max payne,['Action'],8,1,Remedy Entertainment,9455,542,[' '],9.99,107.0,2008,326.0,2023,0.9457837351205362,0,1,0
-serious sam classic: the first encounter,"['Action', 'Indie']",9,1,Croteam,2779,117,['Engine.Serious_Engine'],5.99,20.0,2010,158.0,2013,0.9595994475138122,0,0,0
+serious sam classic: the first encounter,"['Action', 'Indie']",9,1,Croteam,2779,117,['Engine.Serious_Engine'],5.99,20.0,2010,158.0,2013,0.9595994475138122,0,1,0
 i frog-ot,"['Adventure', 'Indie']",9,1,Krabby Games,524,4,"['Engine.Unity', 'Engine.Unity', 'SDK.SteamworksNET', 'SDK.UnityBurst', 'SDK.cURL']",0.0,3.0,2022,25.0,2022,0.9924242424242424,0,1,0
 fallout,['RPG'],8,4,Interplay Inc.,18600,1182,[' '],,1021.0,2009,8130.0,2017,0.9402487109493479,0,1,0
 otaku's adventure,"['Adventure', 'Indie', 'RPG']",8,7,Spacelight Studio,7302,400,['Engine.Unity'],6.99,19.0,2019,2792.0,2019,0.9480654375486887,0,1,1
 dramatical murder,['Adventure'],9,4,Nitro+CHiRAL,2564,104,[' '],19.99,42.0,2021,343.0,2022,0.9610194902548725,0,1,0
 the procession to calvary,"['Adventure', 'Indie']",9,5,Joe Richardson,920,20,['Engine.Unity'],4.49,4.0,2020,73.0,2020,0.9787234042553191,1,1,1
 teenage mutant ninja turtles: shredder's revenge,"['Action', 'Adventure', 'Casual', 'Indie']",8,10,Tribute Games Inc.,12082,725,"['Engine.FNA', 'SDK.EpicOnlineServices']",24.99,127.0,2022,11933.0,2022,0.9433903334114156,1,1,0
-the lab,['Free to Play'],9,21,Valve,5749,300,"['Engine.Source2', 'Engine.Unity']",0.0,27.0,2016,927.0,2018,0.9504050256240701,0,0,0
+the lab,['Free to Play'],9,21,Valve,5749,300,"['Engine.Source2', 'Engine.Unity']",0.0,27.0,2016,927.0,2018,0.9504050256240701,0,1,0
 the thrill of the fight,"['Action', 'Sports']",9,1,Sealost Interactive LLC,3584,165,['Engine.Unity'],,26.0,2019,69.0,2022,0.9559882635369432,0,1,0
 warsim: the realm of aslona,"['Indie', 'RPG', 'Simulation', 'Strategy']",9,1,Huw Millward,1384,42,[' '],9.99,14.0,2022,263.0,2018,0.97054698457223,0,1,0
 bitburner,['Free to Play'],9,1,Fulcrum Games,5663,295,['SDK.Greenworks'],0.0,658.0,2021,5935.0,2022,0.950486740516952,1,1,1
@@ -1851,10 +1851,10 @@ capybara spa,['Simulation'],9,5,Cozy Bee Games,1360,41,['Engine.Unreal'],5.99,9.
 所向之未来 - towards future,"['Indie', 'RPG', 'Free to Play']",9,1,拾伍司工坊,627,8,"['Engine.RPGMaker', 'Engine.RPGMaker', 'SDK.Greenworks', 'SDK.NWJS', 'SDK.NodeJS']",0.0,2.0,2022,28.0,2022,0.9874015748031496,0,1,0
 sven co-op,"['Action', 'Casual', 'Free to Play', 'Indie']",8,1,Sven Co-op team,27975,1876,"['Engine.GoldSource', 'Engine.GoldSource', 'SDK.Discord', 'SDK.FMOD', 'SDK.Miles_Sound_System', 'SDK.SDL', 'SDK.cURL']",0.0,377.0,2016,6572.0,2016,0.9371545341864594,1,1,0
 bramble: the mountain king,"['Adventure', 'Indie']",9,18,Dimfrost Studio,3883,184,['Engine.Unreal'],14.99,34.0,2023,594.0,2023,0.9547578067371527,0,1,0
-fallout 2,['RPG'],8,3,Black Isle Studios,13082,798,[' '],,1222.0,2009,2302.0,2024,0.942507204610951,0,0,0
+fallout 2,['RPG'],8,3,Black Isle Studios,13082,798,[' '],,1222.0,2009,2302.0,2024,0.942507204610951,0,1,0
 magical girl celesphonia,"['Adventure', 'Indie', 'RPG']",9,3,Shimobashira Workshop,2206,86,['Engine.RPGMaker'],19.99,109.0,2022,1583.0,2022,0.962478184991274,0,1,0
 heavenly bodies,"['Action', 'Adventure', 'Indie', 'Simulation']",9,13,2pt Interactive,3078,136,['Engine.Unity'],19.99,69.0,2021,443.0,2023,0.9576851275668948,0,1,1
-quake iii arena,['Action'],9,1,id Software,3330,151,"['AntiCheat.PunkBuster', 'Engine.idTech']",14.99,47.0,2007,125.0,2021,0.9566216604424016,0,0,0
+quake iii arena,['Action'],9,1,id Software,3330,151,"['AntiCheat.PunkBuster', 'Engine.idTech']",14.99,47.0,2007,125.0,2021,0.9566216604424016,0,1,0
 leap of faith,"['Indie', 'RPG']",9,1,DriftyGames,1758,62,"['Engine.PyGame', 'Engine.RenPy']",10.99,37.0,2022,505.0,2022,0.9659340659340659,1,1,1
 trick & treat,"['Adventure', 'Casual', 'Free to Play', 'Indie']",9,4,Rabbiton,2181,85,"['Engine.RPGMaker', 'Engine.RPGMaker']",0.0,3.0,2016,637.0,2018,0.9624889673433362,0,1,0
 penko park,"['Adventure', 'Indie', 'Simulation']",8,12,Ghostbutter,486,3,['Engine.Unity'],13.99,3.0,2020,40.0,2021,0.9938650306748467,1,1,1
@@ -1912,7 +1912,7 @@ this war of mine,"['Adventure', 'Indie', 'Simulation']",8,12,11 bit studios,8985
 the ditzy demons are in love with me,['Adventure'],9,3,SMILE,1427,47,['Engine.KiriKiri'],24.99,8.0,2018,141.0,2018,0.9681139755766621,0,1,0
 mosaique neko waifus 4,"['Casual', 'RPG']",9,14,Lil Hentai Games,4503,230,['Engine.Unity'],2.99,9.0,2021,715.0,2021,0.9514050285231355,1,1,1
 draw puzzle,"['Casual', 'Indie']",9,15,Hen Wen Studio,835,18,['Engine.Unity'],,7.0,2017,312.0,2017,0.9788980070339977,0,1,1
-payday: the heist,['Action'],8,5,OVERKILL Software,37184,2633,['Engine.Diesel'],,45.0,2011,50316.0,2014,0.9338724665343948,0,0,0
+payday: the heist,['Action'],8,5,OVERKILL Software,37184,2633,['Engine.Diesel'],,45.0,2011,50316.0,2014,0.9338724665343948,0,1,0
 escape simulator,"['Adventure', 'Casual', 'Indie', 'Simulation']",8,13,Pine Studio,13698,865,['Engine.Unity'],19.99,723.0,2021,6616.0,2021,0.9406028977545835,1,1,1
 life goes on,"['Action', 'Adventure', 'Casual', 'Indie']",9,12,Infinite Monkeys Entertainment Ltd.,2279,94,['Engine.Unity'],,4.0,2014,432.0,2018,0.9603876949009692,1,1,1
 choice of robots,"['Indie', 'RPG']",9,1,Choice of Games,1906,73,['Container.Electron'],6.99,5.0,2014,244.0,2015,0.9631126831733199,1,1,1
@@ -1944,7 +1944,7 @@ lost judgment,"['Action', 'Adventure']",8,9,Ryu Ga Gotoku Studio,5185,278,[' '],
 quickie: a love hotel story,"['Simulation', 'Early Access']",9,3,Oppai Games,1556,55,['Engine.Unity'],19.99,19.0,2021,252.0,2021,0.9658597144630664,0,1,1
 command and conquer 3: kane's wrath,['Strategy'],9,10,EA Los Angeles,4059,205,[' '],,602.0,2009,971.0,2024,0.9519230769230769,0,1,0
 beat hazard,"['Action', 'Casual', 'Indie']",8,6,Cold Beam Games,6907,394,[' '],9.99,9.0,2010,4123.0,2011,0.9460347897548281,1,1,1
-call of duty (2003),['Action'],8,2,Infinity Ward,5810,320,"['AntiCheat.PunkBuster', 'Engine.idTech']",,85.0,2006,207.0,2023,0.9477977161500816,0,0,0
+call of duty (2003),['Action'],8,2,Infinity Ward,5810,320,"['AntiCheat.PunkBuster', 'Engine.idTech']",,85.0,2006,207.0,2023,0.9477977161500816,0,1,0
 halo: the master chief collection,['Action'],8,20,343 Industries,209711,16842,"['AntiCheat.EasyAntiCheat', 'Engine.Unreal']",39.99,4936.0,2019,161024.0,2019,0.9256597793893703,0,1,0
 the coma 2: vicious sisters,"['Action', 'Adventure', 'Indie']",9,11,"Dvora Studio Co., Ltd.",2716,122,['Engine.Unity'],14.99,32.0,2020,261.0,2019,0.9570119802677942,1,1,1
 mushroom cats,"['Adventure', 'Casual', 'Free to Play', 'Indie']",9,1,Anatoliy Loginovskikh,1516,53,[' '],0.0,1.0,2019,115.0,2019,0.9662205226258763,0,1,0
@@ -1998,7 +1998,7 @@ worbital,"['Action', 'Indie', 'Strategy']",8,5,Team Jolly Roger,381,45,['Engine.
 strikeforce kitty,"['Adventure', 'Casual', 'Indie']",8,13,Creepy Brothers,661,87,['Engine.Unity'],,12.0,2018,352.0,2023,0.8836898395721925,0,1,1
 press any key,"['Casual', 'Indie', 'Free to Play']",8,1,LostVolBytes,216,6,"['Engine.Unity', 'Engine.Unity', 'SDK.SteamworksNET', 'SDK.UnityBurst', 'SDK.UnityURP', 'SDK.cURL']",0.0,2.0,2024,25.0,2024,0.972972972972973,0,1,0
 东方异乡录 ~the apocryphal gensoukyou,"['Casual', 'RPG']",8,3,YEARS,151,11,['Engine.Unity'],,1.0,2022,24.0,2022,0.9320987654320988,0,1,0
-tomb raider: legend,"['Action', 'Adventure']",8,5,Crystal Dynamics,4258,602,[' '],,44.0,2007,287.0,2012,0.8761316872427983,0,0,0
+tomb raider: legend,"['Action', 'Adventure']",8,5,Crystal Dynamics,4258,602,[' '],,44.0,2007,287.0,2012,0.8761316872427983,0,1,0
 nomad survival,"['Action', 'Indie']",8,10,The Fox Knocks,1621,239,['Engine.GameMaker'],,19.0,2022,2431.0,2022,0.871505376344086,0,1,0
 the journey down: chapter one,"['Adventure', 'Indie']",8,2,SkyGoblin,1103,163,[' '],,2.0,2013,245.0,2014,0.8712480252764613,1,1,1
 the terrible old man,"['Adventure', 'Free to Play']",8,1,Cloak and Dagger Games,515,66,"['Engine.AdventureGameStudio', 'Engine.AdventureGameStudio']",,2.0,2019,26.0,2019,0.8864027538726333,0,1,0
@@ -2032,5 +2032,5 @@ dark nights,"['Adventure', 'Free to Play', 'Indie']",8,1,Pinlin,251,21,"['Engine
 mad games tycoon,"['Casual', 'Indie', 'Simulation', 'Strategy']",8,18,Eggcode,3988,403,['Engine.Unity'],,17.0,2016,1434.0,2016,0.9082213618765657,0,1,1
 fireboy & watergirl: elements,['Action'],8,1,Oslo Albet,707,93,[' '],,13.0,2019,118.0,2020,0.88375,0,1,1
 coromon,"['Adventure', 'Indie', 'RPG', 'Strategy']",8,18,TRAGsoft,4355,672,['Engine.Solar2D'],,254.0,2022,4026.0,2022,0.8663218619454943,0,1,1
-call of duty: united offensive,['Action'],8,3,Gray Matter Studios,1648,247,"['AntiCheat.PunkBuster', 'Engine.idTech']",,61.0,2006,96.0,2020,0.8696569920844327,0,0,0
+call of duty: united offensive,['Action'],8,3,Gray Matter Studios,1648,247,"['AntiCheat.PunkBuster', 'Engine.idTech']",,61.0,2006,96.0,2020,0.8696569920844327,0,1,0
 solium infernum,"['Indie', 'Strategy']",8,12,League of Geeks,873,118,['Engine.Unity'],,106.0,2024,1115.0,2024,0.8809283551967709,0,1,0
