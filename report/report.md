@@ -21,7 +21,21 @@
     - [DEVELOPERS](#developers)
     - [Final Word](#final-word)
   - [Step 4: Predictive Models](#step-4-predictive-models)
-
+    - [Feature Selection: Using All Features](#feature-selection-using-all-features)
+      - [Neural Network 1](#neural-network-1)
+      - [Neural Network 2](#neural-network-2)
+      - [Neural Network Grid Search](#neural-network-grid-search)
+      - [Decision Tree Regressor](#decision-tree-regressor)
+      - [Support Vector Machine Regressor (SVR)](#support-vector-machine-regressor-svr)
+      - [Linear Regression](#linear-regression)
+      - [K Nearest Neighbor Regressor](#k-nearest-neighbor-regressor)
+      - [Extreme Gradient Boosting Regressor](#extreme-gradient-boosting-regressor)
+    - [Feature Selection: Principal Component Analysis (n\_components = 0.95)](#feature-selection-principal-component-analysis-n_components--095)
+      - [Neural Network GridSearch](#neural-network-gridsearch)
+      - [Extreme Gradient Boosting Regressor](#extreme-gradient-boosting-regressor-1)
+    - [Feature Selection: 10 Top Feature Based on f\_regression](#feature-selection-10-top-feature-based-on-f_regression)
+      - [Neural Network Grid Search](#neural-network-grid-search-1)
+      - [Extreme Gradient Boosting Regressor](#extreme-gradient-boosting-regressor-2)
 
 ## Introduction
 
@@ -193,3 +207,397 @@ After all this being said, to close our *'exploration'* on the data, let us take
 In this plot we addressed the logarithmic behavior of 24_HOUR_PEAK. Plus, it shows the correlation of features with the newly constituted target column. This plot is our entrypoint to the next phase: training predictive models.
 
 ## Step 4: Predictive Models
+
+Before training our models, two things were to be decided:
+
+1. removing highly correlated features with others: TOTAL_RATE_SUM
+2. strategies overtaken for selecting features.
+
+The first one was simple. Regardless, there was three different approach taken by us for feature selection.
+
+### Feature Selection: Using All Features
+
+Next, it was given to a similar NN and the following results were accomplished:
+
+#### Neural Network 1
+
+```python
+model = Sequential([
+    Input(shape=(X_train_scaled.shape[1],)),
+    Dense(32, activation='relu'),
+    Dense(64, activation='relu'),
+    Dense(32, activation='relu'),
+    Dense(1, activation='relu')
+])
+```
+
+![figure 4-1](./fig4-1.png)
+
+| | Set | Loss | RMSE | R-squared | MAE |
+| - | - | - | - | - | - |
+| 0   | Training   | 1.217586 | 1.052511 | 0.770634 | 0.615379 |
+| 1   | Validation | 2.183037 | 1.482897 | 0.531131 | 1.176697 |
+
+#### Neural Network 2
+
+For a more complex NN with the description below, the results would be the following:
+
+```python
+model = Sequential([
+    Input(shape=(X_train_scaled.shape[1],)),
+    Dense(32, activation='relu', kernel_regularizer=l2(0.01)),
+    BatchNormalization(),
+    Dropout(0.2),
+    Dense(64, activation='relu', kernel_regularizer=l2(0.01)),
+    BatchNormalization(),
+    Dropout(0.2),
+    Dense(32, activation='relu', kernel_regularizer=l2(0.01)),
+    BatchNormalization(),
+    Dropout(0.2),
+    Dense(1)  # Linear activation for regression
+])
+```
+
+![figure 4-2](./fig4-2.png)
+
+| | Set | Loss | RMSE | R-squared | MAE |
+| - | - | - | - | - | - |
+| 0 | Training | 1.969014 | 1.162526 | 0.720179 | 0.849738 |
+| 1 | Validation | 2.392664 | 1.351710 | 0.610420 | 1.034928 |
+
+By looking at both tables so far, it would be clear that the second neural network is improving $R^2$ score by 0.1, which is the main criterion for us in model comparison.
+
+#### Neural Network Grid Search
+
+After struggling for coming up with a good NN, we decided to work on a grid search (not the library) for determining which neural network configuration would be the best:
+
+The result was stored in the following table:
+
+|     | # of units per layer | # of epochs | Size of batches | Training time | Loss (Train) | Loss (TEST) | RMSE (Train) | RMSE (TEST) | R2 (Train) | R2 (TEST) | MAE (Train) | MAE (TEST) |
+| --- | -------------------- | ----------- | --------------- | ------------- | ------------ | ----------- | ------------ | ----------- | ---------- | --------- | ----------- | ---------- |
+| 0   | 16  | 32  | 64  | 3.741940  | 2.549694 | 3.018758 | 1.596776 | 1.737457 | 0.472086 | 0.356338 | 1.061174 | 1.258086 |
+| 1   | 256 | 200 | 16  | 28.986325 | 0.554259 | 1.680379 | 0.744485 | 1.296294 | 0.885241 | 0.641708 | 0.460525 | 1.034333 |
+| 2   | 16  | 200 | 16  | 26.987884 | 0.658522 | 1.493838 | 0.811493 | 1.222227 | 0.863653 | 0.681483 | 0.579325 | 0.962577 |
+| 3   | 16  | 128 | 16  | 16.896468 | 0.908914 | 1.555800 | 0.953370 | 1.247317 | 0.811809 | 0.668271 | 0.630648 | 0.951122 |
+
+Based on this table, this NN would perform best after 200 epochs with batch sizes of 16:
+
+```python
+model = Sequential([
+    Input(shape=(X_train_scaled.shape[1],)),
+    Dense(128, activation='relu'),
+    Dropout(rate=0.4),
+    Dense(16, activation='relu'),
+    Dense(1, activation='relu')
+])
+```
+
+Up until this point, 0.68 $R^2$ score was our best trained model so far.
+
+#### Decision Tree Regressor
+
+After tackling with neural network instances, it was Decision Tree Regressor's turn. We trained various models using the parameter grid below to find the best hyper parameters:
+
+```python
+param_grid = {
+    'max_depth': [None, 10, 20, 30, 40, 50],
+    'min_samples_split': [2, 5, 10, 20],
+    'min_samples_leaf': [1, 2, 4, 10]
+}
+```
+
+For acquiring a testing insight on our models, here along with the future, we used Cross-Fold Validation method to test trained models.
+
+Best obtained hyper parameters based on RMSE as the loss function were:
+
+```text
+Best parameters found:  {'max_depth': 10, 'min_samples_leaf': 10, 'min_samples_split': 10}
+```
+
+![figure 4-3](./fig4-3.png)
+
+This figure shows how much the size of the training data has effects on the best performing model.
+
+This model's performance on train and test data is as follows:
+
+```text
+Decision Tree:
+Mean Absolute Error (MAE): 0.6147685820377253
+Root Mean Squared Error (RMSE): 0.7949319740380001
+R-squared: 0.8691616072733632
+********************************************************************************
+Decision Tree (TEST):
+Mean Absolute Error (MAE): 0.8455609439947211
+Root Mean Squared Error (RMSE): 1.1141953095109933
+R-squared: 0.735301000398328
+```
+
+We assume the reason that NN models failed in outputting these $R^2$ scores, was the lack of data entries. If we had twice or three times more data, neural networks would have fitted the complexity and the variance of our data in more details than any decision tree regressor would.
+
+#### Support Vector Machine Regressor (SVR)
+
+The very steps taken with decision trees, were also taken for some other regressors by us. One of those regressors was SVR.
+
+```python
+param_grid = {
+    'kernel': ['linear', 'poly', 'sigmoid'],
+    'C': [0.001, 0.01, 0.05, 0.1, 0.5, 0.9, 1],
+    'epsilon': [0.01, 0.015, 0.02, 0.05, 0.1, 1]
+}
+```
+
+As it is clarified in above hyper-parameter grid, our grid search was held to find the best HPs using this map. The result was:
+
+```text
+Best parameters found:  {'C': 0.05, 'epsilon': 0.02, 'kernel': 'sigmoid'}
+```
+
+![figure 4-4](./fig4-4.png)
+
+As there was the same plot for the decision tree regressor, this figure shows how much our scores are affected by the size of the train data. When compared to the latter model, the decision tree regressor, this model shows more dependency to the number of train data it receives.
+
+The results for the best performing SVR is as follows:
+
+```text
+Support Vector Machine:
+Mean Absolute Error (MAE): 1.3956271070033301
+Root Mean Squared Error (RMSE): 1.744185869877018
+R-squared: 0.37011568096456693
+********************************************************************************
+Support Vector Machine (TEST):
+Mean Absolute Error (MAE): 1.424771084435031
+Root Mean Squared Error (RMSE): 1.766725135936086
+R-squared: 0.33447001946996047
+```
+
+Apparently, based on the numbers above, one could eliminate SVR from its estimators. The reason for that is clearly weaker representations obtained by these models compared to the ones with decision trees.
+
+#### Linear Regression
+
+Again, the same steps are followed and the same kinds of results were attained.
+
+Hyper-parameter grid:
+
+```python
+param_grid = {
+    'fit_intercept': [True, False],
+    'copy_X': [True, False]
+}
+```
+
+Best parameters found:
+
+```text
+Best parameters found:  {'copy_X': True, 'fit_intercept': True}
+```
+
+The relationship between train sizes and scores:
+
+![figure 4-5](./fig4-5.png)
+
+The best performing model:
+
+```text
+Linear Regression (Training):
+Mean Absolute Error (MAE): 1.3431794781023956
+Root Mean Squared Error (RMSE): 1.681415033516217
+R-squared: 0.41463719745009053
+********************************************************************************
+Linear Regression (TEST):
+Mean Absolute Error (MAE): 1.3606837568204557
+Root Mean Squared Error (RMSE): 1.6960694969679437
+R-squared: 0.3866379023522314
+```
+
+Again, as it is demonstrated above it is observed that the relationship between input features and the output is not linear at all.
+
+#### K Nearest Neighbor Regressor
+
+Hyper-parameter grid:
+
+```python
+param_grid = {
+    'n_neighbors': [3, 5, 7, 9, 11],
+    'p': [1, 2]  # 1 for Manhattan distance, 2 for Euclidean distance
+}
+```
+
+Best parameters found:
+
+```text
+Best parameters found:  {'n_neighbors': 7, 'p': 1}
+```
+
+The relationship between train sizes and scores:
+
+![figure 4-6](./fig4-6.png)
+
+The best performing model:
+
+```text
+KNN (Training):
+Mean Absolute Error (MAE): 1.1198805226699178
+Root Mean Squared Error (RMSE): 1.4586889559884466
+R-squared: 0.5594444682492764
+********************************************************************************
+KNN (TEST):
+Mean Absolute Error (MAE): 1.3721145616269976
+Root Mean Squared Error (RMSE): 1.753059870304279
+R-squared: 0.3447256853450662
+```
+
+It can be perceived that KNN performs better on the train data and it fits it more accurately. Nevertheless, the test scores are not good at all.
+
+#### Extreme Gradient Boosting Regressor
+
+For a really good model on the train data we finally decided to use the XG Boosting Regressor. It is a really powerful model that exploits decision trees and gradient descent.
+
+It's descriptor is:
+
+```python
+xg_reg = xgb.XGBRegressor(objective ='reg:squarederror', colsample_bytree = 0.3, learning_rate = 0.01, max_depth = 5, alpha = 10, n_estimators = 1000)
+```
+
+![figure 4-7](./fig4-7.png)
+
+Scoring on train and test data:
+
+```text
+XGBoost (Training):
+Mean Absolute Error (MAE): 0.5860730929603588
+Root Mean Squared Error (RMSE): 0.7496485854850025
+R-squared: 0.8836434808238242
+********************************************************************************
+XGBoost (TEST):
+Mean Absolute Error (MAE): 0.7428412842719543
+Root Mean Squared Error (RMSE): 0.9654529669740577
+R-squared: 0.8012569770531637
+```
+
+This model is extremely powerful and it can match accuracy of NNs on any data. It gives us 0.80 $R^2$ score on the test data, which is way more than any other model. So this would be our chosen model so far.
+
+### Feature Selection: Principal Component Analysis (n_components = 0.95)
+
+For this strategy, first we test some thing. We show that reducing the number of components can at most preserve 81.33% of the variance.
+
+Then, data is transformed with 95% preservation on variance.
+
+After this short unrelated illustration, let us delve into fitting models on the PCAed input matrix.
+
+#### Neural Network GridSearch
+
+|     | # of units per layer | # of epochs | Size of batches | Training time | Loss (Train) | Loss (TEST) | RMSE (Train) | RMSE (TEST) | R2 (Train) | R2 (TEST) | MAE (Train) | MAE (TEST) |
+| :-- | :------------------- | :---------- | :-------------- | :------------ | :----------- | :---------- | :----------- | :---------- | :--------- | :-------- | :---------- | :--------- |
+| 0   | 16                   | 32          | 64              | 3.643546      | 3.110680     | 3.509193    | 1.763712     | 1.873284    | 0.355934   | 0.251767  | 1.144121    | 1.350002   |
+| 1   | 256                  | 200         | 16              | 29.174867     | 0.875590     | 1.856288    | 0.935730     | 1.362456    | 0.818709   | 0.604201  | 0.524072    | 1.083147   |
+| 2   | 16                   | 200         | 16              | 26.729690     | 0.940843     | 1.778513    | 0.969970     | 1.333609    | 0.805199   | 0.620784  | 0.660116    | 1.047676   |
+| 3   | 16                   | 128         | 16              | 17.475826     | 0.935510     | 1.936591    | 0.967218     | 1.391615    | 0.806303   | 0.587078  | 0.712915    | 1.013782   |
+
+Since the best $R^2$ score in this table for test data is 0.62, the best NN obtained would be described with code below:
+
+```python
+model = Sequential([
+        Input(shape=(X_train_pca_95.shape[1],)),
+        Dense(128, activation='relu'),
+        Dropout(rate=0.4),
+        Dense(16, activation='relu'),
+        Dense(1, activation='relu')
+    ])
+```
+
+In this model the size of batches that the input data is given to the NN is 16 and this training was gone for 200 epochs.
+
+#### Extreme Gradient Boosting Regressor
+
+As the best performing model in the previous section, a XG Boosting Regressor was fit on the PCAed data. As it was expected this model performed weaker than the other XG Boosting Regressor trained in the previous section.
+
+The scores achieved by this model is shown below:
+
+```text
+XGBoost (Training):
+Mean Absolute Error (MAE): 0.8277082735326102
+Root Mean Squared Error (RMSE): 1.0373939837236694
+R-squared: 0.7771756136897428
+********************************************************************************
+XGBoost (TEST):
+Mean Absolute Error (MAE): 1.300783071858265
+Root Mean Squared Error (RMSE): 1.634452765069035
+R-squared: 0.4303942081830755
+```
+
+Even though this model is representing train data good enough with $R^2$ score of 0.77, it does not perform as well on test data.
+
+![figure 4-8](./fig4-8.png)
+
+### Feature Selection: 10 Top Feature Based on f_regression
+
+First approach was selecting 10 top features based on f_regression. In this way, these columns are selected:
+
+- POSITIVE_REVIEWS
+- NEGATIVE_REVIEWS
+- PUBLISH_YEAR
+- RATING_SCORE
+- TWITCH_PEAK_HOUR
+- GENRECasual
+- GENREIndie
+- GENRESimulation
+- GENREStrategy
+- NEGATIVE_REVIEWS_percentage
+
+Having chosen the columns, we use them to model our data.
+
+#### Neural Network Grid Search
+
+The same as the previous way of feature selection (PCA), we run a grid search on a template of neural networks and the result would be the following table (again similar to the previous tables):
+
+|     | # of units per layer | # of epochs | Size of batches | Training time | Loss (Train) | Loss (TEST) | RMSE (Train) | RMSE (TEST) | R2 (Train) | R2 (TEST) | MAE (Train) | MAE (TEST) |
+| :-- | :------------------- | :---------- | :-------------- | :------------ | :----------- | :---------- | :----------- | :---------- | :--------- | :-------- | :---------- | ---------- |
+| 0   | 16                   | 32          | 64              | 3.692096      | 2.335184     | 2.174313    | 1.528131     | 1.474555    | 0.516500   | 0.536391  | 1.034369    | 1.135857   |
+| 1   | 256                  | 200         | 16              | 31.320140     | 0.820414     | 1.387802    | 0.905767     | 1.178050    | 0.830133   | 0.704092  | 0.707147    | 0.919961   |
+| 2   | 16                   | 200         | 16              | 27.973862     | 0.933618     | 1.391563    | 0.966239     | 1.179645    | 0.806694   | 0.703290  | 0.751252    | 0.915005   |
+| 3   | 16                   | 128         | 16              | 20.420817     | 1.143844     | 1.413223    | 1.069506     | 1.188791    | 0.763167   | 0.698671  | 0.770759    | 0.929294   |
+
+Based on this data, the best hyper parameters for this template is as follows:
+
+- size of batches: 16
+- number of epochs: 200
+
+And these parameters must apply on the following NN:
+
+```python
+model = Sequential([
+    Input(shape=(X_train_selected_scaled.shape[1],)),
+    Dense(128, activation='relu'),
+    Dropout(rate=0.4),
+    Dense(256, activation='relu'),
+    Dense(1, activation='relu')
+])
+```
+
+This model would output an $R^2$ score of 0.704 on test data. Which is actually one the best models we had so far.
+
+#### Extreme Gradient Boosting Regressor
+
+Again as the icing on the cake we point at an XG Boosting Regressor. The model descriptor would be as follows:
+
+```python
+xg_reg = xgb.XGBRegressor(objective ='reg:squarederror', colsample_bytree = 0.3, learning_rate = 0.01, max_depth = 5, alpha = 10, n_estimators = 1000)
+```
+
+This model would result in following scores for the train and the test data:
+
+```text
+XGBoost (Training):
+Mean Absolute Error (MAE): 0.6627285206542181
+Root Mean Squared Error (RMSE): 0.8482878593363223
+R-squared: 0.8510084041377163
+********************************************************************************
+XGBoost (TEST):
+Mean Absolute Error (MAE): 0.809165829148597
+Root Mean Squared Error (RMSE): 1.042862691280758
+R-squared: 0.7681089913162328
+```
+
+Also the convergence of the Training Score and the Cross-Validation Score can be illustrated in the following figure:
+
+![figure 4-9](./fig4-9.png)
