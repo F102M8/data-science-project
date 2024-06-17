@@ -21,6 +21,7 @@
     - [DEVELOPERS](#developers)
     - [Final Word](#final-word)
   - [Step 4: Predictive Models](#step-4-predictive-models)
+    - [Evaluation Metrics](#evaluation-metrics)
     - [Feature Selection: Using All Features](#feature-selection-using-all-features)
       - [Neural Network 1](#neural-network-1)
       - [Neural Network 2](#neural-network-2)
@@ -212,8 +213,24 @@ Before training our models, two things were to be decided:
 
 1. removing highly correlated features with others: TOTAL_RATE_SUM
 2. strategies overtaken for selecting features.
+3. evaluation metrics
 
-The first one was simple. Regardless, there was three different approach taken by us for feature selection.
+The first one was simple.
+
+For the second issue, there were three different approach taken by us for feature selection, which will be addressed at shortly.
+
+But for the third one, we must specify a section for its importance.
+
+### Evaluation Metrics
+
+The evaluation metrics chosen by us were not surprisingly regression-related metrics. It means that because the nature of our target feature was continuous, the type of estimators we used should have been regressors. Therefore, the metrics we could have used must have been loss functions and their combinations.
+
+For this project for keeping things simple, the following metrics were chosen to be involved in the training and assessment of our models:
+
+- $R^2$ score
+- Mean square error
+
+Also, just for the sake of display, the Mean Absolute Error was used, too.
 
 ### Feature Selection: Using All Features
 
