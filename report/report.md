@@ -37,6 +37,7 @@
     - [Feature Selection: 10 Top Feature Based on f\_regression](#feature-selection-10-top-feature-based-on-f_regression)
       - [Neural Network Grid Search](#neural-network-grid-search-1)
       - [Extreme Gradient Boosting Regressor](#extreme-gradient-boosting-regressor-2)
+  - [Conclusion](#conclusion)
 
 ## Introduction
 
@@ -250,10 +251,10 @@ model = Sequential([
 
 ![figure 4-1](./fig4-1.png)
 
-| | Set | Loss | RMSE | R-squared | MAE |
-| - | - | - | - | - | - |
-| 0   | Training   | 1.217586 | 1.052511 | 0.770634 | 0.615379 |
-| 1   | Validation | 2.183037 | 1.482897 | 0.531131 | 1.176697 |
+|     | Set        | Loss     | RMSE     | R-squared | MAE      |
+| --- | ---------- | -------- | -------- | --------- | -------- |
+| 0   | Training   | 1.217586 | 1.052511 | 0.770634  | 0.615379 |
+| 1   | Validation | 2.183037 | 1.482897 | 0.531131  | 1.176697 |
 
 #### Neural Network 2
 
@@ -277,10 +278,10 @@ model = Sequential([
 
 ![figure 4-2](./fig4-2.png)
 
-| | Set | Loss | RMSE | R-squared | MAE |
-| - | - | - | - | - | - |
-| 0 | Training | 1.969014 | 1.162526 | 0.720179 | 0.849738 |
-| 1 | Validation | 2.392664 | 1.351710 | 0.610420 | 1.034928 |
+|     | Set        | Loss     | RMSE     | R-squared | MAE      |
+| --- | ---------- | -------- | -------- | --------- | -------- |
+| 0   | Training   | 1.969014 | 1.162526 | 0.720179  | 0.849738 |
+| 1   | Validation | 2.392664 | 1.351710 | 0.610420  | 1.034928 |
 
 By looking at both tables so far, it would be clear that the second neural network is improving $R^2$ score by 0.1, which is the main criterion for us in model comparison.
 
@@ -292,10 +293,10 @@ The result was stored in the following table:
 
 |     | # of units per layer | # of epochs | Size of batches | Training time | Loss (Train) | Loss (TEST) | RMSE (Train) | RMSE (TEST) | R2 (Train) | R2 (TEST) | MAE (Train) | MAE (TEST) |
 | --- | -------------------- | ----------- | --------------- | ------------- | ------------ | ----------- | ------------ | ----------- | ---------- | --------- | ----------- | ---------- |
-| 0   | 16  | 32  | 64  | 3.741940  | 2.549694 | 3.018758 | 1.596776 | 1.737457 | 0.472086 | 0.356338 | 1.061174 | 1.258086 |
-| 1   | 256 | 200 | 16  | 28.986325 | 0.554259 | 1.680379 | 0.744485 | 1.296294 | 0.885241 | 0.641708 | 0.460525 | 1.034333 |
-| 2   | 16  | 200 | 16  | 26.987884 | 0.658522 | 1.493838 | 0.811493 | 1.222227 | 0.863653 | 0.681483 | 0.579325 | 0.962577 |
-| 3   | 16  | 128 | 16  | 16.896468 | 0.908914 | 1.555800 | 0.953370 | 1.247317 | 0.811809 | 0.668271 | 0.630648 | 0.951122 |
+| 0   | 16                   | 32          | 64              | 3.741940      | 2.549694     | 3.018758    | 1.596776     | 1.737457    | 0.472086   | 0.356338  | 1.061174    | 1.258086   |
+| 1   | 256                  | 200         | 16              | 28.986325     | 0.554259     | 1.680379    | 0.744485     | 1.296294    | 0.885241   | 0.641708  | 0.460525    | 1.034333   |
+| 2   | 16                   | 200         | 16              | 26.987884     | 0.658522     | 1.493838    | 0.811493     | 1.222227    | 0.863653   | 0.681483  | 0.579325    | 0.962577   |
+| 3   | 16                   | 128         | 16              | 16.896468     | 0.908914     | 1.555800    | 0.953370     | 1.247317    | 0.811809   | 0.668271  | 0.630648    | 0.951122   |
 
 Based on this table, this NN would perform best after 200 epochs with batch sizes of 16:
 
@@ -618,3 +619,7 @@ R-squared: 0.7681089913162328
 Also the convergence of the Training Score and the Cross-Validation Score can be illustrated in the following figure:
 
 ![figure 4-9](./fig4-9.png)
+
+## Conclusion
+
+Throughout this project we followed one target, but did many different things. We faced various challenges in data collection as well as preprocessing. We discussed many ways that our cleansed data could be represented and reasoned about. We asked ourselves how to transform columns to be best suited for our use. We underwent many questions about which regressors should we use and what parameters should be set to accurately estimate our target. To sum up, we learnt a lot. But that was not everything. At last, many regressors were trained the best of which could assess video games' daily player peak with $R^2$ score of about 0.8 given necessary features. This was in fact enabling us to estimate fans' excitement before a game even releases. Firmly, we can state, this project has been an invaluable learning experience, equipping us with robust tools and insights for the rest of our journey in the future.
