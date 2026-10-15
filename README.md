@@ -22,5 +22,5 @@ The complete methodology, analysis, visualizations, and findings are documented 
 ## Contributors
 
 - Hasti Karimi
-- Fateme Mohammadi
+- Fatemeh Mohammadi
 - Ali Lotfollahi
